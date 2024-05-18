@@ -1,0 +1,41 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Ahmed El Saadani,G,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Osama Ibrahim,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Ahmed Yassin,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Mohamed Dabash,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Assem Salah,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Mohamed Bassiouny,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Maarouf Yussuf,M,Nigeria,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Estrela,M,Angola,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Karim Bambo,F,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Ahmed Shroyda,F,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Mohammad Mothnani,F,Tunisia,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Moussa Diawara,F,Guinea,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Mohamed Hamed,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Mohamed Fathi,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Ahmed Ali Kamel,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Mahmoud Kaoud,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Mahmoud El Zanfaly,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Mohamed Koffi,D,Burkina Faso,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Mohamed Magdy,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Ali Saber,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Bank,0.0,0.0-1.0,9373281
+Mohamed Sobhi,G,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281
+Sabri Raheel,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281
+Damion Lowe,D,Jamaica,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281
+Ammar Hamdy,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281
+Elsayed Salem,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281
+Fawzi El Henawy,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281
+Marwan Attia,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281
+Ahmed Nabil,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281
+Razak Cissé,F,Ivory Coast,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281
+Emmanuel Okwi,M,Uganda,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281
+Khaled Metwalli,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281
+Romario Williams,F,Jamaica,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281
+Hossam Ashour,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281
+Abdel Samia Ibrahim,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281
+Marwan El-Naggar,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281
+Amr Khalil,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281
+Hisham Salah,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281
+Mohamed El Sabahi,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281
+Ahmed Heggy,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281
+Ahmed Rashed,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Ittihad,1.0,0.0-1.0,9373281

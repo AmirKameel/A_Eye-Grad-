@@ -1,0 +1,42 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Amr Shaaban,G,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Hany Adel,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Khaled Sami,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Moaz El Henawy,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Mostafa El Aash,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Hesham Balaha,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Abdo Yehia,F,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Ibrahim Kone,M,Ivory Coast,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Himid Mao Mkami,M,Tanzania,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Ahmed El Nadry,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Abdelrahman Atef,F,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Ahmed El Sheikh,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Paulin Voavy,F,Madagascar,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Malick Toure,F,Mali,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Mahmoud El Hadary,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Mahmoud Alaa El Katamy,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Sayed Shabrawy,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Bassam Maher,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Ahmed El Sayed,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Khaled El Akhmimi,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Walid Mostafa,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Mahalla,0.0,0.0-0.0,10502103
+Amer Mohamed,G,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103
+Mus'ab Al Battat,D,Palestine,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103
+Seif Teka,D,Tunisia,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103
+Mahmoud El Badry,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103
+Ahmed Mohsen,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103
+Abdelrahman Body,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103
+Kwame Bonsu,M,Ghana,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103
+Mostafa Saad,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103
+Mohamed Ibrahim,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103
+Sherif Dabo,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103
+Shady Hussein,F,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103
+Winful Cobbinah,M,Ghana,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103
+Alaa Atta,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103
+Basem Morsi,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103
+Saleh Gomaa,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103
+Hosam Mohamed,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103
+Mahmoud Shokri,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103
+Khaled Sobhi,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103
+Hamza Magdi,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103
+Marwan Osman,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,10502103

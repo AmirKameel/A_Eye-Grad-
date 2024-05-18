@@ -1,0 +1,37 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Ahmed Masoud,G,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Masry,1.0,1.0-1.0,8517111
+Hussein Ragab,F,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Masry,1.0,1.0-1.0,8517111
+Karim El Eraki,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Masry,1.0,1.0-1.0,8517111
+Saidou Simpore,D,Burkina Faso,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Masry,1.0,1.0-1.0,8517111
+Hassan Ali,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Masry,1.0,1.0-1.0,8517111
+Muftah Taqtaq,M,Libya,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Masry,1.0,1.0-1.0,8517111
+Emeka Eze,M,Nigeria,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Masry,1.0,1.0-1.0,8517111
+Ahmed Shousha,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Masry,1.0,1.0-1.0,8517111
+Baha Magdy,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Masry,1.0,1.0-1.0,8517111
+Farid Shawky,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Masry,1.0,1.0-1.0,8517111
+Mahmoud Wadi,F,Palestine,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Masry,1.0,1.0-1.0,8517111
+Mahmoud Hamad Ibrahim,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Masry,1.0,1.0-1.0,8517111
+Eslam Attia,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Masry,1.0,1.0-1.0,8517111
+Ahmed Yasser,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Masry,1.0,1.0-1.0,8517111
+Ahmed Busca,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Masry,1.0,1.0-1.0,8517111
+Amr Moussa,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Masry,1.0,1.0-1.0,8517111
+Omar Kamal,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Masry,1.0,1.0-1.0,8517111
+Ayman Nada,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Al-Masry,1.0,1.0-1.0,8517111
+Mahdi Soliman,G,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pyramids,1.0,1.0-1.0,8517111
+Omar Gaber,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pyramids,1.0,1.0-1.0,8517111
+Ahmed Ayman Mansour,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pyramids,1.0,1.0-1.0,8517111
+Abdallah Bakri,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pyramids,1.0,1.0-1.0,8517111
+Mohamed Hamdi,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pyramids,1.0,1.0-1.0,8517111
+Abdallah El-Said,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pyramids,1.0,1.0-1.0,8517111
+Eric Traore,M,Burkina Faso,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pyramids,1.0,1.0-1.0,8517111
+Mahmoud Hamada,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pyramids,1.0,1.0-1.0,8517111
+Ahmed Tawfik,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pyramids,1.0,1.0-1.0,8517111
+Islam Issa,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pyramids,1.0,1.0-1.0,8517111
+John Antwi,F,Ghana,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pyramids,1.0,1.0-1.0,8517111
+Amor Layouni,F,Tunisia,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pyramids,1.0,1.0-1.0,8517111
+Ragab Bakar,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pyramids,1.0,1.0-1.0,8517111
+Dodo El Gabas,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pyramids,1.0,1.0-1.0,8517111
+Ahmed Daador,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pyramids,1.0,1.0-1.0,8517111
+Wilfried Kanon,D,Ivory Coast,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pyramids,1.0,1.0-1.0,8517111
+Tarek Taha,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pyramids,1.0,1.0-1.0,8517111
+Ibrahim Adel,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pyramids,1.0,1.0-1.0,8517111

@@ -1,0 +1,41 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Islam Tarek,G,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Mohamed Yeken,D,Tunisia,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Mohamed Naguib,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Louay Wael,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Amr Saadawy,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Islam Abdelnaim,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Nour El Sayed,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Serge Aka,M,Ivory Coast,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Omar El Said,F,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Idris Mbombo,F,DR Congo,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Mahmoud Shabrawy,F,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Allan Kyambadde,M,Uganda,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Amoory,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Mahmoud El-Gazzar,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Joseph Jonathan Ngwem,D,Cameroon,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Mohamed Ragab,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Mahmoud El Gharabawy,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Ahmed Amer,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Amr Barakat,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Karim El Tayeb,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,El Gouna,1.0,1.0-1.0,9373316
+Omar Radwan,G,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316
+Ahmed Salem Safi,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316
+Mohamed Gaber,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316
+Mahmoud Shabana,D,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316
+Ashraf Magdy,F,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316
+Solomon Mensah,M,Ghana,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316
+Abdul Aziz Mousa,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316
+Haitham Mostafa,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316
+Ahmed Khaled,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316
+Ahmed El-Saghiri,M,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316
+Mohamed Osama,F,Egypt,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316
+Ahmed Belya,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316
+Amr El Halwani,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316
+Emmanuel Karbogi,M,Nigeria,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316
+Amr Reda,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316
+Ahmed El Alfi,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316
+Khaled Walid,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316
+Mohamed El Ashri,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316
+Mohamed Gamal Fahim,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316
+Salah El Deen Yehia,F,none,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aswan,1.0,1.0-1.0,9373316

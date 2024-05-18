@@ -1,0 +1,41 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Mohamed Abou Gabal,G,Egypt,False,30,14,21,5,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,3,90,46,7.5,17,0,0,National Bank,2.0,2.0-0.0,11190477
+Mohamed Bassiouny,D,Egypt,False,39,24,8,1,4,0,3,5,1,1,0,0,2,0,0,4,1,0,0,2,2,0,0,0,1,10,0,0,80,66,6.7,24,0,0,National Bank,2.0,2.0-0.0,11190477
+Mahmoud El-Gazzar,D,Egypt,False,35,29,10,9,0,2,1,2,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,90,45,7.6,6,0,0,National Bank,2.0,2.0-0.0,11190477
+Saidou Simpore,D,Burkina Faso,False,47,34,11,6,0,1,5,2,0,0,1,4,2,0,0,0,1,0,0,0,0,0,0,0,0,7,0,0,90,57,7.6,13,0,0,National Bank,2.0,2.0-0.0,11190477
+Issahaku Yakubu,D,Ghana,False,44,34,14,7,4,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,3,0,0,90,69,6.9,24,0,0,National Bank,2.0,2.0-0.0,11190477
+Mahmoud Sayed,M,Egypt,False,14,13,2,2,2,1,1,4,0,1,0,1,2,0,0,0,2,0,0,0,1,0,0,0,0,3,0,0,79,22,6.8,3,0,0,National Bank,2.0,2.0-0.0,11190477
+Mohamed Fathi,M,Egypt,False,32,25,7,4,0,1,2,3,1,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0,1,2,0,0,90,41,6.7,8,0,0,National Bank,2.0,2.0-0.0,11190477
+Mahmoud Kaoud,F,Egypt,False,38,33,2,1,3,3,1,3,1,0,0,1,0,0,0,1,1,2,0,0,0,1,1,1,1,3,0,0,90,51,7.1,11,0,0,National Bank,2.0,2.0-0.0,11190477
+Mohamed Helal,M,Egypt,False,43,27,7,4,3,1,2,3,0,1,0,3,2,0,0,1,0,1,0,1,1,0,1,0,0,5,0,0,88,63,7.4,24,0,0,National Bank,2.0,2.0-0.0,11190477
+Ahmed Yasser,M,Egypt,False,21,15,3,2,1,2,0,6,0,1,0,2,2,0,0,1,3,0,0,1,0,0,2,0,0,3,0,0,90,30,6.7,8,0,0,National Bank,2.0,2.0-0.0,11190477
+Osama Faisal,F,Egypt,False,13,9,2,1,0,0,0,1,0,0,0,0,0,1,0,1,1,1,0,0,0,2,0,0,0,1,0,0,69,20,7.0,7,0,0,National Bank,2.0,2.0-0.0,11190477
+Osama Ibrahim,D,Egypt,True,7,4,3,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,21,9,6.6,4,0,0,National Bank,2.0,2.0-0.0,11190477
+Hamdy Alaa,M,Egypt,True,6,3,2,0,0,0,1,2,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,11,8,6.2,4,0,0,National Bank,2.0,2.0-0.0,11190477
+Karim Bambo,F,Egypt,True,3,0,1,0,0,0,0,2,2,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,2,3,0,0,10,9,6.9,5,0,0,National Bank,2.0,2.0-0.0,11190477
+Eslam Gaber,M,Egypt,True,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0.0,1,0,0,National Bank,2.0,2.0-0.0,11190477
+Ahmed Sobhi,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,National Bank,2.0,2.0-0.0,11190477
+Ahmed Yassin,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,National Bank,2.0,2.0-0.0,11190477
+Assem Salah,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,National Bank,2.0,2.0-0.0,11190477
+Moussa Diawara,F,Guinea,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,National Bank,2.0,2.0-0.0,11190477
+Hossam Ashraf,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,National Bank,2.0,2.0-0.0,11190477
+Mohamed Shaaban,G,Egypt,False,20,7,18,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,90,31,5.8,14,0,0,El-Gaish,0.0,2.0-0.0,11190477
+Mohamed Camacho,D,Egypt,False,54,45,6,2,2,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,90,66,6.5,13,0,0,El-Gaish,0.0,2.0-0.0,11190477
+Khaled Stouhi,D,Egypt,False,63,48,24,12,1,1,2,5,0,1,0,0,1,0,1,2,3,1,0,1,1,0,0,0,0,5,0,0,90,76,6.2,17,0,0,El-Gaish,0.0,2.0-0.0,11190477
+Ahmed Ayman Mansour,D,Egypt,False,46,33,8,1,0,1,2,2,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,3,0,0,70,54,6.1,15,0,0,El-Gaish,0.0,2.0-0.0,11190477
+Ahmed Abdel Rahman Zola,M,Egypt,False,14,12,3,2,1,0,0,4,0,0,0,0,0,0,0,0,1,0,0,2,1,0,1,0,0,0,0,0,45,22,6.2,5,0,0,El-Gaish,0.0,2.0-0.0,11190477
+Farid Shawky,M,Egypt,False,59,47,5,1,1,1,1,5,0,0,0,0,1,0,0,0,1,1,0,2,1,0,0,0,0,2,0,0,90,64,6.2,16,0,0,El-Gaish,0.0,2.0-0.0,11190477
+Mostafa Khawaga,M,Egypt,False,50,45,7,6,5,0,0,3,0,1,0,1,1,0,0,1,3,1,0,0,0,0,0,0,0,2,0,0,82,60,7.1,8,0,0,El-Gaish,0.0,2.0-0.0,11190477
+Hassan Magdy,D,Egypt,False,48,38,9,4,3,0,0,5,2,0,0,1,0,0,0,0,3,0,0,0,1,0,0,0,2,1,0,0,90,69,6.2,17,0,0,El-Gaish,0.0,2.0-0.0,11190477
+Ahmed Samir,F,Egypt,False,16,12,1,1,3,0,0,0,1,1,0,0,0,0,0,3,0,1,0,0,0,0,0,0,1,4,0,0,63,27,6.9,8,0,0,El-Gaish,0.0,2.0-0.0,11190477
+Khaled Kamar,F,Egypt,False,15,12,1,1,1,7,1,8,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,63,20,6.6,5,0,0,El-Gaish,0.0,2.0-0.0,11190477
+Islam Mohareb,M,Egypt,False,25,19,3,2,1,4,1,7,0,1,0,1,1,0,0,1,0,1,0,0,3,2,0,0,0,3,0,0,90,45,7.0,11,0,0,El-Gaish,0.0,2.0-0.0,11190477
+Ahmed Meteb,F,Egypt,True,18,16,1,1,7,0,0,1,1,0,0,0,0,0,0,2,0,2,0,0,1,0,0,0,1,3,0,0,45,40,7.0,9,0,0,El-Gaish,0.0,2.0-0.0,11190477
+Mohamed Shehata,M,Egypt,True,19,16,1,0,3,1,2,1,0,1,0,0,2,0,0,2,0,3,0,0,0,0,0,0,0,6,0,0,27,30,7.3,7,0,0,El-Gaish,0.0,2.0-0.0,11190477
+Marwan Osman,F,Egypt,True,7,4,0,0,0,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,2,0,0,27,10,6.4,6,0,0,El-Gaish,0.0,2.0-0.0,11190477
+Mohamed Sherif,M,Egypt,True,8,6,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,11,6.5,4,0,0,El-Gaish,0.0,2.0-0.0,11190477
+Omar Radwan,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,El-Gaish,0.0,2.0-0.0,11190477
+Mohamed Samir,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,El-Gaish,0.0,2.0-0.0,11190477
+Ali Hamdy,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,El-Gaish,0.0,2.0-0.0,11190477
+Fares Hatem,M,Egypt,True,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,8,2,6.6,0,0,0,El-Gaish,0.0,2.0-0.0,11190477
+Ashraf Magdy,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,El-Gaish,0.0,2.0-0.0,11190477

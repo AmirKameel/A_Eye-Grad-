@@ -1,0 +1,41 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Ahmed El-Shenawy,G,Egypt,False,30,25,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,90,37,7.1,5,0,0,Pyramids,3.0,3.0-0.0,10824336
+Abdallah Magdy,M,Egypt,False,20,16,0,0,2,2,2,4,0,1,0,1,1,0,0,2,2,0,0,0,0,0,0,0,0,5,0,0,61,35,6.5,10,0,0,Pyramids,3.0,3.0-0.0,10824336
+Osama Galal,D,Egypt,False,71,67,10,8,0,1,2,3,1,2,0,2,2,1,0,0,0,0,0,1,0,1,0,0,1,4,0,0,90,85,8.2,5,0,0,Pyramids,3.0,3.0-0.0,10824336
+Ahmed Samy,D,Egypt,False,74,70,3,1,0,3,2,4,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,90,83,7.0,4,0,0,Pyramids,3.0,3.0-0.0,10824336
+Mohamed Hamdi,D,Egypt,False,60,48,2,0,4,1,1,4,2,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,2,3,0,0,90,90,6.8,20,0,0,Pyramids,3.0,3.0-0.0,10824336
+Islam Issa,M,Egypt,False,15,14,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,30,17,6.6,1,0,0,Pyramids,3.0,3.0-0.0,10824336
+Ibrahim Blati Toure,M,Burkina Faso,False,50,44,2,2,0,0,1,4,3,0,1,0,2,0,0,1,1,1,0,0,1,0,0,0,3,5,0,0,76,64,6.9,12,0,0,Pyramids,3.0,3.0-0.0,10824336
+Abdallah El-Said,M,Egypt,False,59,50,2,2,8,0,0,4,2,3,0,1,2,0,0,1,0,3,0,1,1,0,0,0,2,3,0,0,90,83,7.7,20,0,0,Pyramids,3.0,3.0-0.0,10824336
+Mostafa Fathy,M,Egypt,False,25,17,4,3,3,0,0,4,7,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,7,3,0,0,75,42,6.8,17,0,0,Pyramids,3.0,3.0-0.0,10824336
+Fagrie Lakay,F,South Africa,False,32,28,1,1,0,1,0,3,1,0,0,0,1,1,0,1,1,2,0,0,0,2,0,0,1,2,0,0,76,39,7.7,7,0,0,Pyramids,3.0,3.0-0.0,10824336
+Ramadan Sobhi,M,Egypt,False,59,51,3,2,1,0,0,4,2,2,0,1,1,0,0,2,0,3,0,1,2,0,0,1,2,4,0,0,90,72,7.2,12,0,0,Pyramids,3.0,3.0-0.0,10824336
+Mohamed Sadek,M,Egypt,True,28,27,1,1,0,2,0,7,3,0,0,2,3,0,0,0,3,1,0,0,1,0,0,0,3,4,0,0,60,41,6.9,5,0,0,Pyramids,3.0,3.0-0.0,10824336
+Karim Hafez,D,Egypt,True,15,13,3,1,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,2,0,0,29,24,6.6,5,0,0,Pyramids,3.0,3.0-0.0,10824336
+Fakhreddine Ben Youssef,F,Tunisia,True,5,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,6,6.6,1,0,0,Pyramids,3.0,3.0-0.0,10824336
+Mahmoud Abdul Aati Dunga,M,Egypt,True,8,5,1,0,0,0,0,2,1,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,14,12,6.7,4,0,0,Pyramids,3.0,3.0-0.0,10824336
+Ibrahim Adel,F,Egypt,True,7,6,0,0,1,0,0,2,1,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,1,0,0,14,16,6.2,5,0,0,Pyramids,3.0,3.0-0.0,10824336
+Sherif Ekramy,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Pyramids,3.0,3.0-0.0,10824336
+Mohamed Chibi,D,Morocco,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Pyramids,3.0,3.0-0.0,10824336
+Hesham Mohamed,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Pyramids,3.0,3.0-0.0,10824336
+Dodo El Gabas,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Pyramids,3.0,3.0-0.0,10824336
+Mahdi Soliman,G,Egypt,False,20,15,10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,90,28,5.5,7,0,0,Al-Ittihad,0.0,3.0-0.0,10824336
+Hisham Salah,D,Egypt,False,32,29,2,1,3,0,0,2,3,0,0,2,1,0,0,1,1,0,0,0,0,0,0,0,3,4,0,0,90,65,6.7,15,0,0,Al-Ittihad,0.0,3.0-0.0,10824336
+Mahmoud Alaa,D,Egypt,False,18,16,5,3,0,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,46,24,6.4,2,0,0,Al-Ittihad,0.0,3.0-0.0,10824336
+Mohammed Saleh,D,Palestine,False,41,33,14,9,0,0,1,1,0,0,1,3,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,90,51,6.3,8,0,0,Al-Ittihad,0.0,3.0-0.0,10824336
+Sabri Raheel,D,Egypt,False,35,30,2,1,4,0,0,1,0,0,0,2,3,0,0,2,0,0,0,1,0,0,0,0,0,5,0,0,90,65,6.7,18,0,0,Al-Ittihad,0.0,3.0-0.0,10824336
+Ibrahim Hassan,M,Egypt,False,23,15,3,0,1,1,2,5,0,0,0,1,2,0,0,0,2,0,0,1,1,0,1,0,0,4,0,0,62,35,6.4,11,0,0,Al-Ittihad,0.0,3.0-0.0,10824336
+Salifu Moro,M,Ghana,False,44,43,4,4,0,0,0,3,1,0,0,1,4,0,0,0,1,1,0,0,1,0,0,0,1,4,0,0,90,58,6.8,6,0,0,Al-Ittihad,0.0,3.0-0.0,10824336
+Marwan Attia,M,Egypt,False,60,48,12,6,2,0,1,7,0,2,0,5,6,0,0,1,2,0,0,4,1,1,0,0,0,8,0,0,90,85,7.0,19,0,0,Al-Ittihad,0.0,3.0-0.0,10824336
+Ahmed Eid,M,Egypt,False,19,15,2,0,1,2,1,7,1,1,0,0,3,0,0,1,2,0,0,0,2,0,1,0,1,5,0,0,81,32,6.4,10,0,0,Al-Ittihad,0.0,3.0-0.0,10824336
+Mabululu,F,Angola,False,16,13,1,0,0,1,1,2,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,4,0,0,62,23,6.6,7,0,0,Al-Ittihad,0.0,3.0-0.0,10824336
+Khaled El Ghandour,M,Egypt,False,19,18,1,1,2,1,3,4,2,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,2,3,0,0,62,27,6.6,5,0,0,Al-Ittihad,0.0,3.0-0.0,10824336
+Abdallah Nasib,D,Jordan,True,20,17,4,2,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,44,27,6.6,3,0,0,Al-Ittihad,0.0,3.0-0.0,10824336
+Ahmed Adel,M,Egypt,True,11,8,2,0,2,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,28,21,6.3,11,0,0,Al-Ittihad,0.0,3.0-0.0,10824336
+Fawzi El Henawy,M,Egypt,True,11,11,1,1,1,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,2,0,0,28,17,6.6,3,0,0,Al-Ittihad,0.0,3.0-0.0,10824336
+Ahmed Sayed Gharib,F,Egypt,True,4,4,2,2,0,2,0,4,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,28,7,6.5,2,0,0,Al-Ittihad,0.0,3.0-0.0,10824336
+Karim El Deeb,M,Egypt,True,7,4,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,9,11,6.5,4,0,0,Al-Ittihad,0.0,3.0-0.0,10824336
+Amr Khalil,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Ittihad,0.0,3.0-0.0,10824336
+Elsayed Salem,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Ittihad,0.0,3.0-0.0,10824336
+Gavin Kizito,D,Uganda,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Ittihad,0.0,3.0-0.0,10824336
+Mahmoud Abdel-Aziz,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Ittihad,0.0,3.0-0.0,10824336

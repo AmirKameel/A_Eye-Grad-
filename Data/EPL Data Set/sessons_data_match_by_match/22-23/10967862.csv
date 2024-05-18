@@ -1,0 +1,41 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Mohamed Bassam,G,Egypt,False,18,13,11,6,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,90,26,6.3,5,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Ahmed Ramadan,D,Egypt,False,52,36,10,6,2,0,1,4,2,1,0,1,2,0,0,0,2,2,0,0,0,1,0,0,2,3,0,0,90,71,7.0,20,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Ragab Nabil,D,Egypt,False,35,32,6,4,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,0,0,90,44,6.9,4,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Seif Teka,D,Tunisia,False,37,31,7,2,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,90,47,6.7,7,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Mohamed Shokry,D,Egypt,False,47,38,9,6,6,1,1,4,2,0,0,3,0,0,0,0,1,4,0,1,0,0,0,0,2,2,0,0,90,71,7.4,14,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Mohamed Adel,M,Egypt,False,52,45,10,7,1,1,0,3,0,1,0,0,3,0,0,0,2,0,0,0,0,0,0,0,0,3,0,0,90,61,7.0,10,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Constant Wayou,M,Ivory Coast,False,25,20,2,1,4,0,0,2,0,0,0,1,2,0,0,0,0,1,0,0,2,0,0,0,0,2,0,0,64,39,6.8,12,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Mido Gaber,M,Egypt,False,30,24,2,1,4,0,1,4,1,0,0,3,2,0,0,0,1,2,0,1,2,1,0,0,1,4,0,0,82,52,7.1,15,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Mohamed Ibrahim,M,Egypt,False,36,31,2,2,3,0,1,5,4,1,0,0,1,0,0,1,1,3,0,0,2,0,0,0,4,5,0,0,82,59,6.9,18,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Mohamed Antar,M,Egypt,False,23,20,1,1,0,0,2,4,6,0,0,0,0,0,0,3,0,2,0,0,2,2,0,0,6,9,0,0,69,41,7.3,8,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Ahmed Yasser Rayan,F,Egypt,False,19,14,2,2,0,0,2,3,1,2,0,0,0,0,0,1,1,1,0,0,1,2,0,0,1,3,0,0,90,34,7.1,10,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Amr Kalawa,M,Egypt,True,7,6,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,2,0,0,0,0,0,0,26,12,7.4,4,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Salah Mohsen,F,Egypt,True,10,6,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,2,0,0,0,2,0,1,1,1,0,0,21,16,8.6,5,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Mohamed Toni,M,Egypt,True,6,4,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,8,9,7.0,2,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Mahmoud Zalaka,M,Egypt,True,5,3,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,1,0,0,1,1,3,0,0,8,11,7.3,4,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Amer Mohamed,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Ahmed Hany,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Marouane Sahraoui,D,Tunisia,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Mahmoud Bolbol Nabil,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Ibrahim Ayoola,F,Nigeria,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ceramica Cleopatra,2.0,2.0-1.0,10967862
+Ahmed Sobhi,G,Egypt,False,36,22,16,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,10,90,57,8.3,14,0,0,National Bank,1.0,2.0-1.0,10967862
+Osama Ibrahim,D,Egypt,False,47,35,11,9,0,0,0,5,0,0,0,1,2,0,0,1,3,0,0,2,0,0,0,0,0,3,0,0,90,62,6.3,14,0,0,National Bank,1.0,2.0-1.0,10967862
+Mahmoud El-Gazzar,D,Egypt,False,39,36,3,1,0,0,0,1,0,0,2,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,90,49,6.7,4,0,0,National Bank,1.0,2.0-1.0,10967862
+Saidou Simpore,D,Burkina Faso,False,53,45,9,5,0,1,0,3,1,0,1,3,1,0,0,2,2,0,0,0,0,0,0,0,1,4,0,0,90,68,7.0,9,0,0,National Bank,1.0,2.0-1.0,10967862
+Issahaku Yakubu,D,Ghana,False,39,25,10,2,4,2,0,8,0,0,2,2,1,0,0,0,0,2,0,3,3,0,0,0,0,1,0,0,90,61,6.1,20,0,0,National Bank,1.0,2.0-1.0,10967862
+Mahmoud Sayed,M,Egypt,False,33,22,4,1,0,2,0,3,0,0,0,0,5,0,0,0,0,0,0,1,0,1,0,0,0,5,0,0,90,44,6.9,13,0,0,National Bank,1.0,2.0-1.0,10967862
+Mohamed Fathi,M,Egypt,False,38,32,5,2,0,1,0,4,0,0,0,2,3,0,0,2,2,0,0,2,0,0,0,0,0,5,0,0,84,50,6.7,7,0,0,National Bank,1.0,2.0-1.0,10967862
+Mohamed Helal,M,Egypt,False,27,15,3,1,5,1,1,4,2,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,2,2,0,0,90,44,6.4,22,0,0,National Bank,1.0,2.0-1.0,10967862
+Mahmoud Kaoud,F,Egypt,False,30,23,3,3,1,1,1,5,1,1,0,0,4,0,0,0,0,0,0,2,1,1,0,0,1,5,0,0,90,41,6.5,11,0,0,National Bank,1.0,2.0-1.0,10967862
+Basem Morsi,F,Egypt,False,11,5,3,0,0,0,0,3,0,0,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,1,0,0,84,20,6.3,12,0,0,National Bank,1.0,2.0-1.0,10967862
+Karim Bambo,F,Egypt,False,16,11,2,1,0,1,0,2,1,1,0,0,1,1,0,1,0,2,0,0,0,1,2,0,1,2,0,0,69,24,7.6,7,0,0,National Bank,1.0,2.0-1.0,10967862
+Firas Ifia,F,Tunisia,True,2,2,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,21,4,6.4,1,0,0,National Bank,1.0,2.0-1.0,10967862
+Hamdy Alaa,M,Egypt,True,6,5,1,0,0,0,0,1,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2,4,0,0,6,13,0.0,3,0,0,National Bank,1.0,2.0-1.0,10967862
+Razak Cissé,F,Ivory Coast,True,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,4,0.0,2,0,0,National Bank,1.0,2.0-1.0,10967862
+Eslam Gaber,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.0,0,0,0,National Bank,1.0,2.0-1.0,10967862
+Mahmoud El Zanfaly,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,National Bank,1.0,2.0-1.0,10967862
+Assem Salah,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,National Bank,1.0,2.0-1.0,10967862
+Ahmed Yassin,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,National Bank,1.0,2.0-1.0,10967862
+Mohamed Bassiouny,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,National Bank,1.0,2.0-1.0,10967862
+Osama Faisal,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,National Bank,1.0,2.0-1.0,10967862

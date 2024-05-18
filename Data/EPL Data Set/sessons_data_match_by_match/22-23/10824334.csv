@@ -1,0 +1,41 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Abdel Aziz El Balouti,G,Egypt,False,28,12,22,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,90,32,7.1,16,0,0,ENPPI,0.0,0.0-0.0,10824334
+Ahmed Sebiha,D,Egypt,False,36,20,9,4,0,4,9,6,0,0,1,3,1,0,0,0,2,1,0,0,0,0,0,0,0,10,0,0,90,44,7.2,16,0,0,ENPPI,0.0,0.0-0.0,10824334
+Khaled Reda,D,Egypt,False,37,23,10,7,0,2,5,2,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,90,46,7.3,14,0,0,ENPPI,0.0,0.0-0.0,10824334
+Ahmed Kalosha,D,Egypt,False,52,36,7,1,0,1,2,2,0,0,0,2,0,0,0,1,1,0,0,0,0,0,0,0,0,3,0,0,90,61,6.8,18,0,0,ENPPI,0.0,0.0-0.0,10824334
+Ali Fawzi,M,Egypt,False,30,19,7,3,10,2,1,10,3,1,0,2,2,0,0,0,3,1,0,1,1,0,0,0,3,3,0,0,90,67,6.8,23,0,0,ENPPI,0.0,0.0-0.0,10824334
+Mody Naser,M,Egypt,False,15,8,0,0,0,0,1,2,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,68,19,6.4,10,0,0,ENPPI,0.0,0.0-0.0,10824334
+Ahmed Youssef,M,Egypt,False,44,29,13,5,0,2,3,4,1,1,0,2,3,0,0,0,1,0,0,1,0,0,0,0,1,7,0,0,90,53,7.1,15,0,0,ENPPI,0.0,0.0-0.0,10824334
+Mohamed Hamdi,M,Egypt,False,42,36,6,3,9,1,0,4,4,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,4,2,0,0,90,73,6.8,20,0,0,ENPPI,0.0,0.0-0.0,10824334
+Mohamed Abdel Aati,M,Egypt,False,40,31,7,3,0,0,0,3,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,0,1,0,0,68,48,6.5,13,0,0,ENPPI,0.0,0.0-0.0,10824334
+Rafik Kabou,F,Tunisia,False,18,13,1,1,0,1,0,3,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,86,24,6.5,9,0,0,ENPPI,0.0,0.0-0.0,10824334
+Youssef Labib,F,Egypt,False,9,6,0,0,0,4,0,5,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,45,13,6.4,5,0,0,ENPPI,0.0,0.0-0.0,10824334
+Ahmed Amin Oufa,F,Egypt,True,14,7,0,0,0,4,2,11,4,0,0,1,1,0,0,0,1,1,0,1,1,0,0,0,4,3,0,0,45,25,6.2,14,0,0,ENPPI,0.0,0.0-0.0,10824334
+Eric Traore,M,Burkina Faso,True,7,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,22,8,6.5,1,0,0,ENPPI,0.0,0.0-0.0,10824334
+Emad Mayhoub,M,Egypt,True,12,7,1,0,0,1,1,3,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,2,0,0,22,18,6.4,7,0,0,ENPPI,0.0,0.0-0.0,10824334
+Abdel Rahman Emad,M,Egypt,True,4,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,4,5,0.0,0,0,0,ENPPI,0.0,0.0-0.0,10824334
+Ramadan Mostafa,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,ENPPI,0.0,0.0-0.0,10824334
+Marouane Sahraoui,D,Tunisia,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,ENPPI,0.0,0.0-0.0,10824334
+Mostafa Dowidar,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,ENPPI,0.0,0.0-0.0,10824334
+Ahmed Eid,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,ENPPI,0.0,0.0-0.0,10824334
+Momen Rady,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,ENPPI,0.0,0.0-0.0,10824334
+Mohamed Fawzi,G,Egypt,False,32,16,24,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,90,38,6.9,16,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334
+Momen Awad,D,Egypt,False,26,17,8,3,4,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,90,48,6.9,15,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334
+Mahmoud Ben Wali,D,Libya,False,20,14,4,0,0,1,1,2,0,0,3,2,1,0,0,1,0,0,0,0,1,0,0,0,0,3,0,0,90,33,7.4,8,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334
+Ibrahim El Kadi,D,Egypt,False,34,19,14,5,0,0,4,0,0,0,1,3,2,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,90,43,7.3,16,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334
+Hamed Khaled,M,none,False,35,18,13,2,2,0,0,1,1,1,0,3,3,0,0,4,0,0,0,0,0,0,0,0,1,7,0,0,90,69,7.2,24,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334
+Ahmed Fathi Hamza,M,Egypt,False,38,26,6,3,0,1,2,3,0,0,0,2,2,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,90,43,6.8,12,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334
+Mostafa Gamal,M,Egypt,False,32,17,6,2,0,2,5,6,0,2,0,1,3,0,0,1,1,1,0,1,2,0,0,0,0,9,0,0,90,47,7.0,20,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334
+Wagih Abdel Hakim,F,Egypt,False,11,6,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,56,15,6.4,6,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334
+Mostafa Ziko,M,Egypt,False,32,24,6,2,0,4,1,8,2,0,0,0,2,0,0,0,1,0,0,1,2,0,1,0,2,5,0,0,90,44,6.6,13,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334
+Mahmoud Mamdouh,M,Egypt,False,16,6,1,0,1,8,7,9,2,0,0,0,3,0,0,2,0,1,0,0,0,1,0,0,2,13,0,0,90,30,7.2,14,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334
+Emmanuel David,F,Nigeria,False,20,12,1,0,1,6,0,8,0,2,0,0,0,0,0,1,1,0,0,0,2,0,0,0,0,1,0,0,80,33,6.5,16,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334
+Medhat Fakousa,M,Egypt,True,19,12,1,0,0,2,1,2,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,5,0,0,34,26,6.8,9,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334
+Mahmoud Abou-Gouda,F,Egypt,True,5,3,0,0,0,0,1,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,10,8,6.3,5,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334
+Ahmed Ayman,D,Egypt,True,2,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3,0.0,1,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334
+Gharib Yasser,M,Egypt,True,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.0,2,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334
+Mohamed Shaaban,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334
+Ahmed Shedid Kenawi,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334
+Islam Abdallah,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334
+Mostafa Sobhi,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334
+Omar Bassam,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Haras El Hedoud,0.0,0.0-0.0,10824334

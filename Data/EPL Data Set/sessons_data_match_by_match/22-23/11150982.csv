@@ -1,0 +1,41 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Mohamed Koko,G,Egypt,False,29,9,23,3,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,90,35,6.6,20,0,0,Ismaily,1.0,1.0-1.0,11150982
+Essam Sobhy,D,Egypt,False,26,21,6,1,1,2,0,6,1,1,1,1,0,0,0,0,3,0,0,1,0,0,0,0,1,1,0,0,90,44,6.8,6,0,0,Ismaily,1.0,1.0-1.0,11150982
+Baher El Mohamady,D,Egypt,False,32,23,11,5,0,0,1,1,0,0,0,6,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,90,46,6.8,9,0,0,Ismaily,1.0,1.0-1.0,11150982
+Mohamed Hashem,D,Egypt,False,40,30,10,4,0,0,1,3,0,0,1,3,0,0,0,3,1,0,0,1,1,0,0,0,0,4,0,0,90,53,6.6,11,0,0,Ismaily,1.0,1.0-1.0,11150982
+Mohamed Desouki,D,Egypt,False,28,23,4,1,0,0,0,4,0,0,0,1,2,0,0,1,2,0,0,1,1,0,0,0,0,3,0,0,90,48,6.4,9,0,0,Ismaily,1.0,1.0-1.0,11150982
+Serge Aka,M,Ivory Coast,False,41,34,5,2,0,0,0,6,1,0,0,3,5,0,0,1,5,0,0,1,1,0,0,0,1,7,0,0,90,54,6.9,9,0,0,Ismaily,1.0,1.0-1.0,11150982
+Abdel Rahman Magdi,M,Egypt,False,39,29,6,5,3,5,1,8,0,0,0,0,3,0,0,1,1,1,0,1,1,0,0,0,0,5,0,0,90,53,7.1,15,0,0,Ismaily,1.0,1.0-1.0,11150982
+Mohamed Makhlouf,M,Egypt,False,29,23,2,1,0,0,1,0,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,1,8,0,0,90,42,7.3,8,0,0,Ismaily,1.0,1.0-1.0,11150982
+Karim El Deeb,M,Egypt,False,22,19,2,1,0,0,1,3,1,0,0,0,2,0,0,1,1,0,0,2,0,0,0,0,1,5,0,0,56,28,6.7,5,0,0,Ismaily,1.0,1.0-1.0,11150982
+Ahmed Madbouli,M,Egypt,False,25,17,3,2,2,1,0,5,0,0,0,0,0,0,0,2,0,1,0,1,3,0,0,1,0,2,0,0,70,36,6.5,14,0,0,Ismaily,1.0,1.0-1.0,11150982
+Mohamed El Shamy,F,Egypt,False,26,16,1,0,4,8,1,18,0,3,1,0,0,1,0,0,4,0,0,0,6,3,1,0,0,1,0,0,90,48,6.3,24,0,0,Ismaily,1.0,1.0-1.0,11150982
+Omar El Wahsh,M,Egypt,True,13,12,0,0,0,0,1,1,0,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0,0,2,0,0,34,19,6.5,4,0,0,Ismaily,1.0,1.0-1.0,11150982
+Firas Chaouat,F,Tunisia,True,7,5,0,0,0,3,1,5,1,0,0,0,0,0,0,2,0,2,0,0,1,0,0,0,1,3,0,0,20,12,7.0,4,0,0,Ismaily,1.0,1.0-1.0,11150982
+Ahmed Adel,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ismaily,1.0,1.0-1.0,11150982
+Mohamed Nasr,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ismaily,1.0,1.0-1.0,11150982
+Karim Arafat,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ismaily,1.0,1.0-1.0,11150982
+Emad Hamdi,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ismaily,1.0,1.0-1.0,11150982
+Saleh Gomaa,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ismaily,1.0,1.0-1.0,11150982
+Mahmoud Shabrawy,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ismaily,1.0,1.0-1.0,11150982
+Yaw Annor,F,Togo,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ismaily,1.0,1.0-1.0,11150982
+Mohamed Bassam,G,Egypt,False,11,9,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,90,17,6.7,2,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982
+Mohamed Adel,M,Egypt,False,43,33,5,3,3,1,1,4,2,0,0,1,3,0,0,1,3,0,0,0,0,0,0,0,2,7,0,0,90,65,7.0,14,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982
+Ragab Nabil,D,Egypt,False,57,52,4,3,0,1,4,2,0,1,0,0,3,0,0,0,2,0,0,0,0,0,0,0,0,7,0,0,90,66,7.1,6,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982
+Seif Teka,D,Tunisia,False,76,67,7,4,1,1,7,3,0,1,0,3,1,1,0,2,2,0,0,0,0,1,0,0,0,10,0,0,90,91,7.9,9,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982
+Ahmed Ramadan,D,Egypt,False,44,30,2,1,2,1,3,4,2,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,2,4,0,0,90,68,6.8,22,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982
+Mido Gaber,M,Egypt,False,33,28,4,2,3,0,1,6,7,2,0,0,1,0,0,1,1,0,0,0,1,0,0,0,7,6,0,0,90,55,6.7,15,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982
+Mohamed Toni,M,Egypt,False,56,52,9,6,1,1,1,3,2,0,0,1,1,0,0,1,1,0,0,1,0,0,0,0,2,4,0,0,82,66,6.8,7,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982
+Mohamed Metwally Canaria,M,Egypt,False,31,23,1,0,0,1,0,2,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,1,0,0,70,38,6.3,11,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982
+Mohamed Antar,M,Egypt,False,35,30,0,0,1,1,1,4,3,0,0,0,0,0,0,3,0,1,0,1,0,0,0,0,3,5,0,0,76,50,6.7,10,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982
+Mohamed Ibrahim,M,Egypt,False,36,22,1,0,5,0,0,4,1,1,0,1,2,0,0,2,1,1,0,0,3,0,0,0,1,5,0,0,90,55,6.7,25,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982
+Salah Mohsen,F,Egypt,False,17,12,0,0,0,2,0,4,2,1,0,0,0,0,0,0,0,0,0,0,1,0,4,0,2,1,0,0,82,24,6.4,10,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982
+Constant Wayou,M,Ivory Coast,True,7,7,0,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,2,0,0,20,12,6.6,2,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982
+Mahmoud Zalaka,M,Egypt,True,6,3,1,0,0,0,0,3,1,0,0,0,2,0,0,2,1,0,0,1,0,0,0,0,1,4,0,0,14,12,6.5,5,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982
+Mahmoud Bolbol Nabil,M,Egypt,True,8,6,2,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,2,0,0,8,10,6.7,2,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982
+Ahmed Yasser Rayan,F,Egypt,True,2,1,0,0,0,0,1,2,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,2,0,0,8,4,6.2,1,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982
+Amer Mohamed,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982
+Abdelrahman Body,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982
+Ahmed Hany,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982
+Marouane Sahraoui,D,Tunisia,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982
+Gabriel Chukwudi,F,Nigeria,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ceramica Cleopatra,1.0,1.0-1.0,11150982

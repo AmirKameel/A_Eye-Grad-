@@ -1,0 +1,41 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Mohamed Fawzi,G,Egypt,False,40,21,31,13,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2,4,90,59,6.9,19,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Momen Awad,D,Egypt,False,27,20,6,3,3,0,0,2,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,90,45,6.3,12,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Islam Abdallah,D,Egypt,False,22,18,6,2,0,1,2,3,1,0,2,2,0,0,0,0,0,0,0,1,0,0,0,0,1,2,0,0,90,37,6.7,6,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Mahmoud Ben Wali,D,Libya,False,44,34,9,4,0,2,1,5,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,0,0,2,0,0,90,52,6.3,11,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Ahmed Shedid Kenawi,D,Egypt,False,41,35,5,3,3,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,90,55,6.8,8,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Mostafa Gamal,M,Egypt,False,17,14,3,2,0,0,0,4,2,0,0,0,1,0,0,0,3,1,0,1,1,0,0,0,2,3,0,0,90,24,6.7,4,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Ahmed Fathi Hamza,M,Egypt,False,33,26,0,0,0,0,3,3,0,0,1,1,2,0,0,2,3,0,0,0,0,0,0,0,0,7,0,0,86,41,6.9,8,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Ahmed Dawooda,M,Egypt,False,23,21,3,3,0,1,0,9,0,0,0,0,1,0,0,3,3,1,0,1,5,0,0,0,0,4,0,0,78,36,6.1,9,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Mostafa Ziko,M,Egypt,False,17,8,1,0,2,2,2,5,2,0,0,1,0,0,0,1,0,0,0,0,2,2,0,0,2,4,0,0,79,35,6.5,17,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Mahmoud Abou-Gouda,F,Egypt,False,20,11,1,0,0,5,2,11,0,0,0,0,2,0,0,0,4,0,0,2,1,0,0,0,0,4,0,0,78,28,6.4,13,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Wagih Abdel Hakim,F,Egypt,False,17,11,2,0,1,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,58,20,6.4,9,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Mahmoud Mamdouh,M,Egypt,True,2,1,1,0,1,0,0,3,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,32,5,6.1,3,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Medhat Fakousa,M,Egypt,True,9,6,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,12,12,6.6,3,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Salisu Mobarak,F,Nigeria,True,5,3,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,12,8,6.5,4,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Ahmed Amer,M,Egypt,True,11,7,2,1,1,1,0,2,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,2,0,0,11,19,6.4,7,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Hamed Khaled,M,none,True,1,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0.0,3,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Mohamed Shaaban,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Mohamed Ahmed Kamel,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Ahmed Ayman,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Gharib Yasser,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Haras El Hedoud,0.0,0.0-2.0,10769882
+Mahmoud Genesh,G,Egypt,False,25,18,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,2,90,36,7.4,7,0,0,Future FC,2.0,0.0-2.0,10769882
+Omar Kamal,M,Egypt,False,47,38,6,4,3,0,1,3,2,0,0,2,1,0,0,1,1,1,0,1,0,0,0,0,2,4,0,0,90,68,7.1,16,0,0,Future FC,2.0,0.0-2.0,10769882
+Saad Samir,D,Egypt,False,51,45,4,2,0,1,1,2,3,0,0,1,1,0,0,2,0,1,0,0,0,0,0,0,3,6,0,0,90,62,7.3,7,0,0,Future FC,2.0,0.0-2.0,10769882
+Mahmoud Marei,D,Egypt,False,80,70,11,5,0,2,4,3,0,0,0,2,1,0,0,0,0,1,0,1,0,0,0,1,0,5,0,0,90,85,7.7,10,0,0,Future FC,2.0,0.0-2.0,10769882
+Joseph Jonathan Ngwem,D,Cameroon,False,48,36,5,2,3,1,1,2,1,0,0,1,3,0,0,1,0,1,0,0,0,1,0,0,1,5,0,0,90,74,7.6,17,0,0,Future FC,2.0,0.0-2.0,10769882
+Karim Nedved,M,Egypt,False,23,21,1,0,1,1,1,4,1,0,0,0,1,0,0,2,2,0,0,0,0,0,0,0,1,4,0,0,58,35,6.5,8,0,0,Future FC,2.0,0.0-2.0,10769882
+Mohanad Lasheen,M,Egypt,False,76,69,11,7,3,1,0,4,2,0,2,0,4,0,0,3,2,0,0,0,0,0,0,0,2,8,0,0,90,99,7.6,14,0,0,Future FC,2.0,0.0-2.0,10769882
+Nasser Maher,M,Egypt,False,53,47,2,0,3,0,0,3,3,0,0,0,1,0,0,2,0,4,0,1,0,0,0,1,3,4,0,0,90,67,7.5,12,0,0,Future FC,2.0,0.0-2.0,10769882
+Aymen Sfaxi,F,Tunisia,False,20,19,0,0,2,1,0,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,58,27,6.5,6,0,0,Future FC,2.0,0.0-2.0,10769882
+Marwan Mohsen,F,Egypt,False,7,3,0,0,0,2,0,3,0,1,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0,2,0,0,58,12,6.8,5,0,0,Future FC,2.0,0.0-2.0,10769882
+Mostafa El-Badry,M,Egypt,False,19,16,0,0,2,0,0,2,2,0,0,2,1,0,0,3,2,0,0,0,0,0,0,0,2,5,0,0,70,33,6.9,7,0,0,Future FC,2.0,0.0-2.0,10769882
+Mohamed Reda,M,Egypt,True,22,16,2,2,0,0,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,32,31,7.2,7,0,0,Future FC,2.0,0.0-2.0,10769882
+Abdelkabir El Ouady,M,Morocco,True,16,11,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,3,0,0,0,0,0,0,0,2,0,0,32,21,6.9,8,0,0,Future FC,2.0,0.0-2.0,10769882
+Omar El Said,F,Egypt,True,4,4,0,0,0,3,3,4,0,1,0,0,0,1,0,0,1,0,0,0,0,2,1,0,0,3,0,0,32,13,7.4,1,0,0,Future FC,2.0,0.0-2.0,10769882
+Hadji Barry,F,Guinea,True,8,7,0,0,0,1,0,2,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,1,2,0,0,20,11,7.3,1,0,0,Future FC,2.0,0.0-2.0,10769882
+Bello Babatunde Martins,M,Nigeria,True,3,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0.0,1,0,0,Future FC,2.0,0.0-2.0,10769882
+Mahmoud Hamdy,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Future FC,2.0,0.0-2.0,10769882
+Tarek Taha,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Future FC,2.0,0.0-2.0,10769882
+Ali El Fil,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Future FC,2.0,0.0-2.0,10769882
+Hesham Hafez,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Future FC,2.0,0.0-2.0,10769882

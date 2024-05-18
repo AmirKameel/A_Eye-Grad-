@@ -1,0 +1,41 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Mahmoud Abou El-Saoud,G,Egypt,False,14,7,11,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,90,27,7.0,8,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+Amir Abed,D,Egypt,False,19,12,6,4,0,0,0,2,0,0,0,0,4,0,0,1,2,0,0,0,0,0,0,0,0,5,0,0,90,29,6.7,7,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+Farouck Kabore,D,Burkina Faso,False,19,7,14,2,0,1,1,5,0,0,1,1,3,0,0,1,2,0,0,1,1,0,0,0,0,5,0,0,90,36,6.5,13,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+Ahmed Alaa Eldin,D,Egypt,False,33,19,14,4,0,1,3,4,1,1,1,3,0,0,0,0,1,0,0,2,0,0,0,0,1,4,0,0,90,42,6.4,14,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+Ahmed Atef,M,Egypt,False,27,15,5,1,2,2,1,5,4,0,0,2,4,0,0,4,1,3,0,0,1,1,0,1,4,12,0,0,90,58,8.1,15,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+Ahmed El Shimi,M,Egypt,False,29,20,1,0,0,0,1,4,2,2,0,2,1,0,0,2,4,1,0,0,1,0,0,0,2,5,0,0,87,42,6.8,11,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+Ahmed Fawzi,M,Egypt,False,43,32,5,3,0,0,0,3,1,0,0,2,4,0,0,2,1,2,0,2,0,0,0,0,1,7,0,0,90,56,7.2,12,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+Joseph Ochaya,M,Uganda,False,31,24,8,4,1,0,0,2,0,2,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,90,53,6.4,13,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+Mamadou Niass,F,Mauritania,False,14,10,0,0,2,1,1,7,3,3,0,0,4,0,0,2,3,0,0,1,1,1,0,0,3,9,0,0,90,31,7.2,8,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+Omar Fathi,M,Egypt,False,27,22,3,1,8,0,0,4,2,0,1,0,1,1,0,0,1,4,0,1,0,1,0,0,2,1,0,0,87,41,7.9,11,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+John Okoli,F,Nigeria,False,13,9,2,1,0,2,0,6,0,0,0,0,0,1,0,0,3,1,0,0,1,3,1,0,0,0,0,0,90,21,6.8,5,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+Mohamed Magli,M,Egypt,True,7,7,0,0,0,0,0,5,0,0,0,0,2,0,0,0,3,0,0,2,0,0,0,0,0,2,0,0,3,10,0.0,1,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+Luis Hinestroza,M,Colombia,True,5,2,0,0,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,2,0,0,3,10,0.0,5,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+Mohamed Shawky Gharib,D,Egypt,True,2,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,5,0.0,1,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+Omar Fayed,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+Fady Farid,F,Egypt,True,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.0,0,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+Ahmed El Arabi,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+Mohamed Hozian,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+Abdelrahman Khaled Gebna,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+Mohamed Salem,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Mokawloon,2.0,2.0-2.0,11301251
+Ahmed Adel,G,Egypt,False,10,9,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,46,18,6.9,1,0,0,Ismaily,2.0,2.0-2.0,11301251
+Karim Arafat,D,Egypt,False,24,18,1,0,6,0,0,7,5,0,0,2,2,0,0,4,2,1,0,1,1,0,0,0,5,8,0,0,90,56,6.4,18,0,0,Ismaily,2.0,2.0-2.0,11301251
+Mohamed Nasr,D,Egypt,False,47,36,5,2,1,0,3,0,0,0,1,1,3,0,0,2,0,0,0,0,0,1,0,0,0,8,0,0,90,64,7.3,12,0,0,Ismaily,2.0,2.0-2.0,11301251
+Baher El Mohamady,D,Egypt,False,47,38,11,5,0,3,0,4,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,90,53,6.1,9,0,0,Ismaily,2.0,2.0-2.0,11301251
+Mohamed Desouki,D,Egypt,False,49,35,5,1,7,1,1,7,3,0,0,1,0,0,0,0,1,2,0,2,1,0,0,0,3,1,0,0,90,75,6.0,25,0,0,Ismaily,2.0,2.0-2.0,11301251
+Mohamed Hassan,M,Egypt,False,43,30,8,4,0,0,0,7,2,0,2,1,1,0,0,2,6,1,0,1,0,0,0,0,2,4,0,0,90,52,6.7,14,0,0,Ismaily,2.0,2.0-2.0,11301251
+Serge Aka,M,Ivory Coast,False,60,56,4,3,0,0,0,6,0,0,0,0,4,0,0,1,4,0,0,1,1,0,0,0,0,5,0,0,90,69,6.7,5,0,0,Ismaily,2.0,2.0-2.0,11301251
+Yaw Annor,F,Togo,False,24,19,1,0,0,1,0,4,4,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,4,4,0,0,89,34,6.2,11,0,0,Ismaily,2.0,2.0-2.0,11301251
+Ahmed Madbouli,M,Egypt,False,38,25,5,1,7,0,0,7,6,0,0,1,0,0,0,5,0,3,0,1,2,0,0,1,6,7,0,0,90,64,6.6,26,0,0,Ismaily,2.0,2.0-2.0,11301251
+Mohamed El Shamy,F,Egypt,False,25,17,0,0,0,1,0,5,1,0,0,1,0,1,0,3,2,0,0,0,2,3,0,0,1,4,0,0,90,43,6.6,14,0,0,Ismaily,2.0,2.0-2.0,11301251
+Firas Chaouat,F,Tunisia,False,21,12,0,0,0,1,3,5,0,1,0,0,0,1,0,0,1,0,0,1,2,1,0,0,0,3,0,0,90,28,7.0,13,0,0,Ismaily,2.0,2.0-2.0,11301251
+Mohamed Koko,G,Egypt,True,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,44,14,6.3,1,0,0,Ismaily,2.0,2.0-2.0,11301251
+Omar El Saaiy,M,Egypt,True,5,3,1,0,0,0,0,2,3,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,3,2,0,0,1,13,0.0,5,0,0,Ismaily,2.0,2.0-2.0,11301251
+Essam Sobhy,D,Egypt,True,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0.0,1,0,0,Ismaily,2.0,2.0-2.0,11301251
+Emad Hamdi,M,Egypt,True,5,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0.0,4,0,0,Ismaily,2.0,2.0-2.0,11301251
+AbouBakr El Gamal,F,Egypt,True,2,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,3,0.0,0,0,0,Ismaily,2.0,2.0-2.0,11301251
+Ahmed Mohsen,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ismaily,2.0,2.0-2.0,11301251
+Karim El Deeb,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ismaily,2.0,2.0-2.0,11301251
+Mohamed Makhlouf,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ismaily,2.0,2.0-2.0,11301251
+Marwan Hamdi,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ismaily,2.0,2.0-2.0,11301251

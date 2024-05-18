@@ -1,0 +1,41 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Reda Sayed,G,Egypt,False,33,17,26,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,43,6.4,16,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Ahmed Sayed Abdelnaby,D,Egypt,False,35,29,3,3,6,1,1,9,2,0,0,0,1,0,0,3,2,0,0,4,0,0,0,0,2,5,0,0,90,60,5.9,19,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Ahmed El Amour,D,Egypt,False,40,34,5,3,0,1,0,5,0,0,0,2,3,0,0,2,4,0,0,0,0,0,0,0,0,5,0,0,90,55,7.1,6,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Mohamed Naguib,D,Egypt,False,41,24,8,1,0,1,1,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,90,51,6.4,18,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Abdelaziz El Sayed,D,Egypt,False,58,45,5,0,4,1,1,2,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,2,0,0,84,82,6.4,21,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Mohamed Nosseir,M,Egypt,False,8,6,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,46,12,6.6,3,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Kelechi Chimezie,M,Nigeria,False,57,53,2,2,0,3,0,8,0,0,0,3,4,0,0,1,3,0,0,0,2,0,0,0,0,5,0,0,90,72,7.0,7,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Hussein Ragab,F,Egypt,False,24,15,3,2,1,2,4,5,0,2,0,1,1,0,0,1,0,0,0,0,3,0,0,0,0,5,0,0,71,37,6.7,14,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Mahmoud Talaat,M,Egypt,False,39,31,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,2,0,0,84,47,6.7,10,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Christopher John,M,Nigeria,False,17,14,1,0,1,2,1,5,1,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0,1,2,0,0,46,28,6.4,9,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Mostafa Fawzy,F,Egypt,False,14,5,0,0,0,4,3,5,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,46,20,6.6,12,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Mohab Yasser,M,Egypt,True,40,30,3,3,4,0,0,4,1,0,0,0,1,0,0,2,2,0,0,0,2,0,0,0,1,4,0,0,44,52,6.8,16,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Samir Fekri,F,Egypt,True,28,25,2,1,6,1,0,5,3,1,0,0,2,0,0,0,1,2,0,0,1,0,0,0,3,3,0,0,44,44,7.0,11,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Rasheed Ahmed,F,Nigeria,True,7,6,0,0,0,4,1,7,1,1,0,0,0,0,0,3,2,0,0,0,1,1,0,0,1,5,0,0,44,18,6.4,3,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Funom Alfred,M,Nigeria,True,8,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,19,11,6.3,10,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Hesham Sabry,M,Egypt,True,4,3,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,0.0,1,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Mohamed Magdi Abdel Fattah,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Barakat Haggag,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Mahmoud Ezzat,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Abdullahi Ojifinni,F,Nigeria,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,El Dakhlya,0.0,0.0-1.0,10824351
+Mahmoud Gad,G,Egypt,False,18,12,9,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,90,25,7.4,6,0,0,Al-Masry,1.0,0.0-1.0,10824351
+Osama El Gazar,M,Egypt,False,38,35,5,2,1,2,2,4,0,0,0,1,1,0,0,1,0,0,0,1,1,0,0,0,0,4,0,0,80,55,6.8,7,0,0,Al-Masry,1.0,0.0-1.0,10824351
+Amr Moussa,D,Egypt,False,59,51,11,6,0,1,2,4,0,0,0,0,2,0,0,1,2,0,0,1,0,0,0,0,0,5,0,0,90,73,7.1,10,0,0,Al-Masry,1.0,0.0-1.0,10824351
+Islam Abou-Salima,D,Egypt,False,64,53,9,4,0,4,4,5,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,6,0,0,90,78,7.2,12,0,0,Al-Masry,1.0,0.0-1.0,10824351
+Amr Saadawy,D,Egypt,False,35,25,7,3,7,0,0,0,2,1,0,2,2,0,0,2,0,1,0,0,0,0,0,0,2,6,0,0,90,64,7.9,19,0,0,Al-Masry,1.0,0.0-1.0,10824351
+Emeka Eze,M,Nigeria,False,56,44,9,5,0,2,3,3,0,0,1,3,0,0,0,1,1,0,0,0,0,0,0,0,0,4,0,0,90,70,7.2,14,0,0,Al-Masry,1.0,0.0-1.0,10824351
+Ahmed Shadad,M,Egypt,False,30,23,4,2,2,0,0,5,1,0,0,0,4,0,0,1,4,1,0,0,1,0,0,0,1,5,0,0,90,44,6.9,11,0,0,Al-Masry,1.0,0.0-1.0,10824351
+Franck Mbella Etouga,F,Cameroon,False,24,18,1,0,1,0,2,2,0,1,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,3,0,0,60,31,6.7,9,0,0,Al-Masry,1.0,0.0-1.0,10824351
+Ilyes Jelassi,M,Tunisia,False,47,35,10,5,2,1,0,3,0,0,0,0,0,0,0,3,2,2,0,0,0,0,0,0,0,3,0,0,80,53,6.9,15,0,0,Al-Masry,1.0,0.0-1.0,10824351
+Mohamed Grendo,F,Egypt,False,24,18,2,0,0,1,2,5,2,0,0,0,1,0,0,4,2,0,0,0,1,0,2,0,2,8,0,0,90,47,6.6,16,0,0,Al-Masry,1.0,0.0-1.0,10824351
+Marwan Hamdy,F,Egypt,False,20,12,1,1,1,2,3,8,3,1,0,1,3,1,0,4,1,0,0,0,4,1,1,0,3,12,0,0,90,54,7.2,26,0,0,Al-Masry,1.0,0.0-1.0,10824351
+Imadeddine Boubekeur,D,Algeria,True,3,3,0,0,0,0,2,1,0,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,30,11,6.9,0,0,0,Al-Masry,1.0,0.0-1.0,10824351
+Islam El Mizzayn,D,Egypt,True,3,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,10,5,6.3,3,0,0,Al-Masry,1.0,0.0-1.0,10824351
+Ahmed El Sheikh,M,Egypt,True,5,4,0,0,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,10,8,6.5,2,0,0,Al-Masry,1.0,0.0-1.0,10824351
+Anthony Okpotu,F,Nigeria,True,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,2,0.0,0,0,0,Al-Masry,1.0,0.0-1.0,10824351
+Essam Tharwat,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Masry,1.0,0.0-1.0,10824351
+Mohamed Fawzy Gad,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Masry,1.0,0.0-1.0,10824351
+Amro Tarek,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Masry,1.0,0.0-1.0,10824351
+Mohamed Antar,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Masry,1.0,0.0-1.0,10824351
+Zyad Farag,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Masry,1.0,0.0-1.0,10824351

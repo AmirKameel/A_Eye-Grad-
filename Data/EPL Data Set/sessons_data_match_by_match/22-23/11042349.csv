@@ -1,0 +1,41 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Ahmed El Saadani,G,Egypt,False,26,12,22,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,90,35,7.3,15,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Mohamed Reda,D,Egypt,False,22,12,9,4,5,0,1,0,0,0,0,2,3,0,0,0,0,2,0,0,0,0,0,0,0,4,0,0,90,45,7.5,23,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Mahmoud Ben Wali,D,Libya,False,22,14,7,1,0,1,2,3,0,0,0,5,1,0,0,1,3,0,0,0,0,0,0,0,0,4,0,0,90,36,7.0,9,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Ibrahim El Kadi,D,Egypt,False,34,21,9,1,0,2,2,4,0,2,0,3,1,0,0,0,1,0,0,2,0,0,0,0,0,3,0,0,90,45,6.7,13,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Hamed Khaled,M,none,False,21,13,2,2,0,0,2,2,1,0,1,1,6,0,0,2,1,0,0,1,0,0,0,0,1,11,0,0,90,38,7.7,10,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Ahmed Shedid Kenawi,D,Egypt,False,38,23,12,3,7,2,0,3,0,0,0,4,5,0,0,2,0,2,0,1,0,0,0,0,0,7,0,0,90,70,7.8,21,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Mostafa Ziko,M,Egypt,False,29,21,2,1,2,0,1,3,5,1,0,0,3,0,0,4,0,0,0,0,1,1,1,0,5,11,0,0,90,58,7.1,21,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Ahmed Fathi Hamza,M,Egypt,False,52,35,8,0,0,0,5,5,0,0,0,2,4,0,0,4,1,0,0,3,1,0,0,0,0,13,0,0,90,68,6.8,19,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Mostafa Gamal,M,Egypt,False,25,20,2,0,0,1,0,5,0,0,1,0,1,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,90,31,6.3,7,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Mostafa Sobhi,F,Egypt,False,12,9,2,0,2,1,0,9,5,0,0,0,3,0,0,1,4,1,0,1,0,0,0,0,5,5,0,0,71,26,6.4,10,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Valentine Odoh,F,Nigeria,False,9,5,0,0,0,3,3,6,2,1,0,1,0,0,0,0,2,0,0,0,0,0,1,0,2,4,0,0,53,14,6.6,5,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Ahmed Ali Kamel,F,Egypt,True,7,2,1,0,1,3,0,5,1,2,0,0,0,0,0,2,0,0,0,0,1,0,0,0,1,2,0,0,37,17,6.6,10,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Islam Gamal,M,Egypt,True,2,1,0,0,0,0,0,3,2,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,2,3,0,0,19,8,6.5,3,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Wagih Abdel Hakim,F,Egypt,True,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,0.0,4,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Mohamed Fawzi,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Ahmed Ayman,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Islam Abdallah,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Momen Awad,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Mahmoud Mamdouh,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Kingsley Fidelis Kuku,F,Nigeria,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Haras El Hedoud,0.0,0.0-0.0,11042349
+Mohamed Bassam,G,Egypt,False,22,15,14,7,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,3,1,1,90,31,7.1,7,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349
+Ahmed Ramadan,D,Egypt,False,40,29,10,3,0,2,0,12,1,0,1,1,1,0,0,0,3,0,0,3,3,1,0,0,1,1,0,0,90,64,6.1,21,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349
+Ragab Nabil,D,Egypt,False,53,42,15,8,0,1,1,1,0,0,0,3,1,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,90,64,7.3,11,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349
+Seif Teka,D,Tunisia,False,48,38,6,3,0,3,6,4,0,0,0,3,2,0,0,1,1,0,0,0,0,0,0,0,0,9,0,0,90,58,7.3,11,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349
+Mohamed Shokry,D,Egypt,False,36,28,4,2,2,1,0,5,2,0,0,4,0,0,0,2,1,1,0,1,1,0,1,0,2,3,0,0,90,58,7.0,13,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349
+Mohamed Antar,M,Egypt,False,23,19,4,1,4,0,0,5,1,0,0,0,2,0,0,1,0,0,0,0,4,0,0,0,1,3,0,0,74,43,6.5,14,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349
+Constant Wayou,M,Ivory Coast,False,33,27,5,1,5,0,0,6,4,0,0,0,1,0,0,2,3,2,0,0,3,0,0,0,4,7,0,0,82,52,6.9,15,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349
+Mohamed Adel,M,Egypt,False,52,44,6,3,1,3,0,8,0,0,0,2,3,0,0,0,3,1,0,2,0,0,0,0,0,3,0,0,90,62,6.8,9,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349
+Mohamed Toni,M,Egypt,False,26,20,5,3,2,0,1,9,1,1,0,1,0,0,0,0,3,0,0,0,6,1,0,0,1,2,0,0,82,45,6.3,16,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349
+Mido Gaber,M,Egypt,False,40,29,2,1,2,0,3,7,2,1,0,3,0,0,0,1,2,0,0,1,4,0,0,0,2,6,0,0,90,61,6.9,20,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349
+Ahmed Yasser Rayan,F,Egypt,False,16,10,3,1,0,5,1,7,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,60,22,6.5,9,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349
+Salah Mohsen,F,Egypt,True,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,3,6.5,1,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349
+Mahmoud Zalaka,M,Egypt,True,6,5,1,1,0,0,0,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0,0,16,17,6.6,5,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349
+Gabriel Chukwudi,F,Nigeria,True,4,3,0,0,0,2,0,3,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,16,7,6.5,3,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349
+Amr Kalawa,M,Egypt,True,11,7,1,0,1,0,0,0,1,1,0,0,2,0,0,0,0,1,0,0,0,0,0,0,1,3,0,0,8,18,7.2,5,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349
+Mohamed Metwally Canaria,M,Egypt,True,14,12,2,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,8,15,6.7,2,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349
+Amer Mohamed,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349
+Marouane Sahraoui,D,Tunisia,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349
+Ahmed Hany,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349
+Mahmoud Bolbol Nabil,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ceramica Cleopatra,0.0,0.0-0.0,11042349

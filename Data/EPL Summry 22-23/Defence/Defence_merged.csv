@@ -1,0 +1,602 @@
+#,Team,Name,Average Sofascore rating,Tackles,Interceptions,Penalty committed,Clearances,Errors lead to goal,Errors lead to shot,Own goals,Dribbled past,Clean sheets
+1,Al Ahly FC,Akram Tawfik,7.66,50,22,0,4,0,0,0,6,4
+2,Al Ahly FC,Ali Maâloul,7.55,38,19,0,18,0,0,0,21,16
+3,Haras El Hedoud,Karim Emad,7.50,0,0,0,7,0,0,0,0,0
+4,Zamalek SC,Zizo,7.37,17,12,0,2,0,0,0,11,14
+5,Pyramids FC,Mohamed Chibi,7.33,16,22,0,32,1,0,0,8,11
+6,Al-Masry,Hossam Hassan,7.30,2,0,0,0,0,0,0,0,0
+7,Pyramids FC,Osama Galal,7.29,29,21,0,40,0,0,0,8,6
+8,Zamalek SC,Emam Ashour,7.28,38,17,0,8,0,0,0,6,6
+9,Al Ahly FC,Mohamed Magdy Afsha,7.26,22,9,0,3,0,0,0,12,4
+10,Al-Masry,Elyes Jelassi,7.25,17,12,0,4,0,0,0,18,5
+11,El Dakhlya,Samir Fekri,7.25,52,19,0,15,0,0,0,13,0
+12,Smouha,Hossam Hassan,7.23,17,3,0,6,0,0,0,4,3
+13,Al Ahly FC,Amr El-Solia,7.21,39,16,0,24,0,0,0,11,5
+14,ENPPI,Abdelrahman Samir,7.20,0,0,0,1,0,0,0,0,1
+15,Smouha,Ahmed Abdel Aziz,7.20,5,3,0,9,0,0,0,0,1
+16,Modern Future FC,Mohanad Lasheen,7.19,104,32,0,28,0,0,0,32,9
+17,Al Ahly FC,Aliou Dieng,7.19,68,40,1,15,0,0,0,16,14
+18,Al Ahly FC,Mohamed Hany,7.18,41,20,0,28,0,0,0,12,10
+19,Al-Masry,Essam Tharwat,7.18,1,0,0,16,0,0,0,2,6
+20,Ghazl El Mahalla,Ahmed El Sheikh,7.16,17,7,0,8,0,0,0,15,4
+21,Pyramids FC,Ali Gabr,7.15,32,31,1,104,0,0,0,3,13
+22,Al Ahly FC,Mahmoud Metwaly,7.13,27,26,0,41,0,0,0,7,12
+23,Al Ahly FC,Marwan Attia,7.13,60,44,0,12,0,0,0,30,7
+24,Al Ahly FC,Mohamed El-Shenawy,7.13,2,0,1,19,0,1,0,0,17
+25,Al Ahly FC,Ali Lotfi,7.13,0,0,0,1,0,0,0,0,3
+26,Zamalek SC,Mohamed Awad,7.12,0,0,0,16,1,0,0,0,8
+27,Modern Future FC,Basem Ali,7.12,76,49,0,49,0,0,1,18,11
+28,Al Ahly FC,Hussein El Shahat,7.11,11,9,0,4,0,0,0,13,2
+29,Zamalek SC,Mahmoud Hamdi,7.10,8,12,0,23,0,0,0,0,3
+30,Pharco FC,Mahmoud El Sayed,7.10,0,0,0,2,0,0,0,0,0
+31,Modern Future FC,Mahmoud Marei,7.09,35,35,0,54,0,0,0,8,13
+32,Al Ahly FC,Mohamed Abdelmonem,7.09,28,29,0,48,0,0,1,12,12
+33,Zamalek SC,Ahmed Fatouh,7.09,28,32,0,24,0,0,1,11,8
+34,Modern Future FC,Joseph Jonathan Ngwem,7.08,42,24,1,44,0,0,0,13,15
+35,Pyramids FC,Mahmoud Saber,7.08,15,6,0,2,0,0,0,1,2
+36,Zamalek SC,Hossam Abdelmaguid,7.08,34,33,1,120,2,1,0,10,12
+37,Al Ahly FC,Karim Fouad,7.08,13,13,0,5,0,0,0,3,0
+38,Pyramids FC,Walid El Karti,7.07,31,26,0,13,0,0,0,20,7
+39,El Dakhlya,Mohamed Magdi Abdel Fattah,7.07,0,0,0,8,0,0,0,0,1
+40,Al Ahly FC,Hamdi Fathi,7.06,19,21,0,15,0,0,0,12,5
+41,Al-Ittihad Alexandria,Mabululu,7.06,17,2,0,26,0,0,0,8,2
+42,Pyramids FC,Abdallah El-Said,7.06,10,7,0,13,0,0,0,6,2
+43,Al-Mokawloon,Mahmoud Abou El-Saoud,7.06,1,0,0,59,0,0,1,0,14
+44,Modern Future FC,Mahmoud Genesh,7.05,0,0,0,27,2,0,0,1,13
+45,ENPPI,Mohamed Ismail,7.05,4,2,0,4,0,0,0,0,0
+46,Haras El Hedoud,Ibrahim El Kadi,7.05,38,45,1,100,0,0,0,12,5
+47,Ceramica Cleopatra,Ragab Nabil,7.05,46,39,0,98,0,0,1,10,11
+48,Ceramica Cleopatra,Mohamed Shokry,7.04,60,68,2,46,0,0,0,26,11
+49,Al-Ittihad Alexandria,Mahmoud Alaa,7.04,19,32,1,73,0,0,0,5,9
+50,Al-Mokawloon,Omar Fayed,7.03,67,46,1,80,0,0,0,11,9
+51,Ismaily,Mohamed Fawzi,7.02,0,0,0,9,0,0,0,0,3
+52,Modern Future FC,Nasser Maher,7.01,20,5,0,0,0,0,0,12,3
+53,ENPPI,Ahmed Kalosha,7.01,49,31,1,147,1,0,0,12,11
+54,Haras El Hedoud,Mohamed Reda,7.00,43,24,0,36,0,0,0,8,3
+55,Pyramids FC,Ahmed El-Shenawy,7.00,0,0,0,29,0,0,0,1,18
+56,Pyramids FC,Mahmoud Ooka,7.00,0,0,0,0,0,0,0,0,0
+57,Al-Masry,Adnan Osman,7.00,4,0,0,0,0,0,0,0,0
+58,Haras El Hedoud,Ramzi Khaled,7.00,2,0,0,0,0,0,0,0,0
+59,Al Ahly FC,Mostafa Shobeir,7.00,0,0,0,2,0,0,0,0,2
+60,Al-Mokawloon,Ahmed Eid,7.00,6,3,0,3,0,0,0,0,0
+61,Tala'ea El-Gaish,Karim Halawa,7.00,6,1,0,0,0,0,0,0,0
+62,Al-Mokawloon,Omar Fathi,7.00,29,10,0,5,0,0,0,17,0
+63,Pyramids FC,Ramadan Sobhi,6.99,15,6,0,7,0,0,0,7,5
+64,Ceramica Cleopatra,Mohamed Bassam,6.99,1,0,0,21,2,0,0,1,12
+65,Ismaily,Serge Aka,6.99,42,12,1,8,0,0,0,18,1
+66,Al-Masry,Mohamed Dabash,6.99,16,25,0,37,0,0,0,5,4
+67,Al-Masry,Hussein Sayed,6.99,43,38,0,20,0,0,0,8,5
+68,ENPPI,Reda Sayed,6.99,2,1,0,36,0,3,0,0,11
+69,Modern Future FC,Mahmoud Hamdy,6.99,1,2,0,3,0,0,0,0,6
+70,ENPPI,Ahmed Amin Oufa,6.98,23,13,0,21,0,0,0,10,2
+71,Al-Ittihad Alexandria,Mahdi Soliman,6.98,1,0,0,44,1,0,0,3,10
+72,Tala'ea El-Gaish,Abdel Rahman Shika,6.98,29,26,0,7,0,0,0,11,1
+73,Ghazl El Mahalla,Moaz El Henawy,6.98,43,46,1,124,1,1,0,11,8
+74,Pyramids FC,Islam Issa,6.98,42,8,0,8,0,0,0,17,0
+75,Zamalek SC,Mohamed Abdelghani,6.97,39,30,0,67,0,1,1,19,7
+76,Al Ahly FC,Yasser Ibrahim,6.97,41,22,1,58,0,0,0,14,7
+77,Ceramica Cleopatra,Mohamed Adel,6.97,49,47,1,26,0,0,0,20,7
+78,Pyramids FC,Ibrahim Blati Toure,6.97,44,24,0,8,0,0,0,17,8
+79,Smouha,Mohamed El Sabahi,6.97,2,2,0,0,0,0,0,4,0
+80,Ismaily,Omar El Wahsh,6.96,49,18,1,9,0,0,0,10,0
+81,Zamalek SC,Ahmed Belhadji,6.96,29,13,0,10,0,0,0,14,3
+82,Al Ahly FC,Rami Rabia,6.96,18,15,0,28,0,0,0,6,6
+83,El Dakhlya,Kamal Aboul-Fetouh,6.96,27,24,0,56,0,0,0,10,4
+84,Modern Future FC,Ali El Fil,6.96,20,27,0,59,1,0,0,6,12
+85,Ceramica Cleopatra,Mohamed Toni,6.96,35,13,0,10,0,0,0,10,4
+86,Al-Mokawloon,Farouck Kabore,6.95,56,48,6,178,0,0,1,20,14
+87,Aswan SC,Mohamed Hamdy Zaki,6.95,11,6,0,38,0,0,0,7,2
+88,Ghazl El Mahalla,Mostafa El Aash,6.95,57,44,1,84,0,0,1,15,7
+89,Pyramids FC,Mostafa Fathy,6.95,25,13,0,8,0,0,0,16,5
+90,El Dakhlya,Ahmed El Amour,6.95,5,3,0,11,0,0,0,1,1
+91,National Bank of Egypt,Mohamed Abou Gabal,6.95,0,0,1,33,2,1,0,0,10
+92,Pharco FC,Abdallah Bakri,6.95,39,41,0,107,0,0,0,8,9
+93,Zamalek SC,Nabil Donga,6.95,36,23,0,25,0,0,0,17,4
+94,Zamalek SC,Mostafa Shalaby,6.95,27,7,0,7,0,0,0,10,2
+95,Ghazl El Mahalla,Himid Mao Mkami,6.94,83,28,0,30,0,0,0,35,5
+96,Al-Masry,Islam Abou-Salima,6.94,37,28,0,84,0,0,0,10,7
+97,Zamalek SC,Mahmoud Shabana,6.94,21,21,0,85,0,0,0,1,6
+98,Tala'ea El-Gaish,Mahmoud Wadi,6.94,7,1,0,9,0,0,0,5,0
+99,Zamalek SC,Mohamed Sobhi,6.93,0,0,0,21,0,0,0,0,7
+100,Modern Future FC,Marwan Mohsen,6.93,19,2,1,7,0,0,0,3,0
+101,Zamalek SC,Hamza Mathlouthi,6.93,37,26,0,63,0,0,0,19,10
+102,Smouha,Sherif Reda,6.93,58,36,1,65,0,0,1,26,10
+103,Ismaily,Mohamed Hassan,6.93,57,34,0,21,0,0,0,19,6
+104,National Bank of Egypt,Mohamed Helal,6.92,32,17,0,8,0,0,0,16,1
+105,Al-Ittihad Alexandria,Sabri Raheel,6.92,53,29,0,41,0,0,0,21,9
+106,Pyramids FC,Mohamed Hamdi,6.92,38,36,0,62,1,0,0,17,11
+107,Haras El Hedoud,Mohamed Fawzi,6.92,3,1,1,28,0,0,0,1,5
+108,Haras El Hedoud,Mahmoud Ben Wali,6.92,29,51,1,156,0,0,1,5,7
+109,Al-Ittihad Alexandria,Hisham Salah,6.91,45,61,0,76,1,0,0,20,9
+110,Pyramids FC,Ahmed Samy,6.91,14,19,3,55,1,0,1,6,10
+111,Al Ahly FC,Khaled Abdelfattah,6.91,46,42,0,45,0,0,1,10,11
+112,Al-Mokawloon,Ahmed Atef,6.91,67,38,0,18,0,0,0,16,3
+113,Ismaily,Ahmed Adel,6.91,0,0,0,7,0,0,0,0,2
+114,Ceramica Cleopatra,Ahmed Yasser Rayan,6.91,26,9,0,6,0,0,0,7,3
+115,Pyramids FC,Karim Hafez,6.91,8,10,1,14,0,0,0,7,4
+116,Tala'ea El-Gaish,Ahmed Samir,6.91,12,7,0,10,0,0,0,7,0
+117,Pharco FC,Rami Sabri,6.91,10,23,0,96,0,0,0,6,7
+118,Haras El Hedoud,Ahmed Shedid Kenawi,6.90,50,36,1,43,0,0,0,17,4
+119,Al-Mokawloon,Ahmed Alaa Eldin,6.90,50,54,1,92,0,0,0,16,14
+120,Pharco FC,Rezki Hamroune,6.90,12,9,0,7,0,0,0,11,2
+121,Ceramica Cleopatra,Seif Teka,6.90,8,12,0,34,0,0,0,5,5
+122,Al-Ittihad Alexandria,Omar Fathy,6.90,1,0,0,1,0,0,0,1,0
+123,Pyramids FC,Ahmed Fathi,6.90,19,10,0,27,0,0,0,14,5
+124,Ismaily,Abdallah El Saeed,6.90,1,2,0,0,0,0,0,0,0
+125,El Dakhlya,Salah Yehia,6.90,1,0,0,0,0,0,0,0,0
+126,Ismaily,Mostafa Fares,6.90,3,3,0,0,0,0,0,2,0
+127,National Bank of Egypt,Ahmed Sobhi,6.90,0,0,0,1,0,0,0,0,1
+128,Ceramica Cleopatra,Ahmed Hany,6.90,27,24,0,19,0,0,0,7,6
+129,Aswan SC,Raphael Ayagwa,6.90,78,50,1,39,0,1,0,22,3
+130,Aswan SC,Mido Mostafa,6.90,75,51,1,73,0,0,0,25,4
+131,Ismaily,Baher El Mohamady,6.90,47,46,2,128,1,1,0,17,5
+132,Ismaily,Abdel Rahman Magdi,6.89,31,5,1,1,0,0,0,9,0
+133,ENPPI,Ali Fawzi,6.89,36,25,0,38,0,0,0,17,5
+134,Al-Masry,Imadeddine Boubekeur,6.89,30,28,0,101,0,0,1,12,9
+135,Al Ahly FC,Kahraba,6.89,4,3,0,1,0,0,0,2,1
+136,ENPPI,Ahmed El Agouz,6.89,55,38,0,17,0,0,0,20,2
+137,Al-Ittihad Alexandria,Abdallah Nasib,6.89,22,16,0,66,1,0,0,8,2
+138,Al-Mokawloon,Abdelrahman Khaled Gebna,6.89,31,13,0,5,0,0,0,10,0
+139,Al-Ittihad Alexandria,Khaled El Ghandour,6.89,34,17,0,18,0,0,0,19,3
+140,Zamalek SC,Ibrahima Ndiaye,6.89,18,6,0,8,0,0,0,9,2
+141,National Bank of Egypt,Mahmoud El-Gazzar,6.88,40,28,0,77,0,0,0,11,7
+142,National Bank of Egypt,Mahmoud Kaoud,6.88,19,13,0,26,0,0,0,9,7
+143,Zamalek SC,Mostafa El Zenary,6.88,21,18,0,49,0,0,0,4,7
+144,Modern Future FC,Ahmed Refaat,6.88,6,1,0,0,0,0,0,4,0
+145,Ceramica Cleopatra,Marouane Sahraoui,6.88,6,8,0,13,0,0,0,1,2
+146,Pharco FC,Mahmoud Hamada,6.88,47,29,0,27,0,0,0,16,12
+147,Al-Masry,Amr Moussa,6.88,35,34,1,86,0,0,0,8,11
+148,Modern Future FC,Omar Kamal,6.88,25,15,0,28,0,0,0,12,4
+149,Al Ahly FC,Taher Mohamed,6.88,27,11,0,3,0,0,0,15,3
+150,ENPPI,Ahmed Sebiha,6.88,39,34,0,77,0,0,0,20,8
+151,Al Ahly FC,Mohamed Sherif,6.88,13,2,0,3,0,0,0,8,3
+152,Haras El Hedoud,Islam Abdallah,6.88,21,20,0,57,0,0,0,7,1
+153,Ismaily,Mohamed Nasr,6.88,18,10,1,40,0,0,0,4,2
+154,National Bank of Egypt,Mohamed Fathi,6.87,56,51,1,27,0,0,0,15,8
+155,Modern Future FC,Saad Samir,6.87,11,8,1,33,0,1,0,1,4
+156,National Bank of Egypt,Saidou Simpore,6.87,15,24,0,60,0,0,0,5,8
+157,Al-Mokawloon,Luis Hinestroza,6.87,36,27,0,23,0,0,0,14,3
+158,Pyramids FC,Fagrie Lakay,6.87,11,4,0,6,0,0,0,6,2
+159,El Dakhlya,Funom Alfred,6.87,11,2,0,6,0,0,0,1,0
+160,Pharco FC,Mohamed Saeed Shika,6.86,4,1,0,36,2,1,0,3,13
+161,Ghazl El Mahalla,Gabriel Orok Ibitham,6.86,40,9,0,0,0,0,0,19,3
+162,Al-Ittihad Alexandria,Khaled Sobhi,6.86,30,21,1,53,0,0,0,8,6
+163,Al-Mokawloon,Fady Farid,6.86,4,4,0,4,0,0,0,2,0
+164,Aswan SC,Hossam Arafat,6.86,13,4,0,5,0,0,0,8,0
+165,Tala'ea El-Gaish,Mohamed Shehata,6.86,57,17,0,5,0,0,0,16,2
+166,Aswan SC,Ahmed Dahroug,6.86,32,17,0,14,0,0,0,12,0
+167,Tala'ea El-Gaish,Karim Tarek,6.85,33,11,0,4,0,0,0,19,3
+168,Modern Future FC,Mohamed Reda,6.85,28,9,0,10,0,0,0,12,3
+169,Smouha,Yehia Yasser,6.85,1,1,0,1,0,0,0,0,0
+170,Al-Mokawloon,Mohamed Rizk,6.85,31,21,0,9,0,0,0,8,1
+171,Ismaily,Yaw Annor,6.85,45,20,0,4,0,0,0,32,3
+172,Pharco FC,Shokry Naguib,6.85,14,6,0,5,0,0,0,6,3
+173,Pharco FC,Saif Thierry,6.84,1,0,0,0,0,0,0,0,0
+174,Smouha,Mostafa Saad,6.84,26,8,0,3,0,0,0,18,0
+175,El Dakhlya,Allan Kyambadde,6.84,45,30,1,31,0,0,0,19,6
+176,Ismaily,Emad Hamdi,6.84,41,27,0,40,0,0,0,15,4
+177,Ceramica Cleopatra,Ahmed Ramadan,6.84,52,32,0,66,0,0,0,19,9
+178,Al-Masry,Marwan Hamdy,6.84,19,4,0,11,0,0,0,9,6
+179,Ceramica Cleopatra,Amr Kalawa,6.84,22,11,0,5,0,0,0,5,0
+180,Tala'ea El-Gaish,Ahmed Meteb,6.84,79,32,0,28,1,0,1,26,10
+181,Aswan SC,Mohamed Morsi,6.83,11,8,0,2,0,0,0,6,0
+182,Al Ahly FC,Karim Eldbees,6.83,5,7,0,6,0,0,0,1,1
+183,Zamalek SC,Naser Mansi,6.83,7,2,1,8,0,0,0,4,0
+184,Al-Mokawloon,Joseph Ochaya,6.83,31,42,1,43,0,0,0,18,8
+185,Tala'ea El-Gaish,Mohamed Camacho,6.83,39,49,3,119,0,1,1,10,12
+186,Tala'ea El-Gaish,Mostafa Khawaga,6.83,22,8,0,4,0,0,0,8,0
+187,Ismaily,Saleh Gomaa,6.83,12,3,0,2,0,0,0,8,0
+188,Al-Masry,Mahmoud Gad,6.82,1,0,0,30,1,0,0,0,9
+189,Aswan SC,Ahmed Castelo,6.82,56,55,1,125,0,0,0,14,4
+190,Smouha,Mohamed Essam Emara,6.82,15,8,0,8,0,0,0,6,0
+191,Pyramids FC,Ahmed Tawfik,6.82,79,26,0,28,0,0,0,25,5
+192,El Dakhlya,Emad El-Sayed,6.82,0,0,0,19,0,0,0,1,4
+193,Modern Future FC,Ghanam Mohamed,6.82,35,15,0,29,0,0,0,25,9
+194,Pharco FC,Ali Baheeg,6.82,2,1,0,2,0,0,0,0,0
+195,Modern Future FC,Mahmoud Shaaban,6.82,11,5,0,8,0,0,0,6,1
+196,Aswan SC,Ahmed Khaled,6.82,38,11,0,4,0,0,0,10,0
+197,Zamalek SC,Seifeddine Jaziri,6.81,16,5,0,12,0,0,0,3,1
+198,Ismaily,Mohamed Makhlouf,6.81,25,5,0,5,0,0,0,2,0
+199,Pharco FC,Ahmed El Bahrawy,6.81,44,14,0,30,0,0,0,11,4
+200,Haras El Hedoud,Khaled Sami,6.81,15,17,1,67,0,0,0,5,0
+201,National Bank of Egypt,Issahaku Yakubu,6.81,47,25,0,33,1,0,0,11,10
+202,Zamalek SC,Mohamed Ashraf Roqa,6.81,30,22,0,12,0,0,1,19,3
+203,Ceramica Cleopatra,Ahmed El Armouty,6.81,15,2,0,2,0,0,0,5,0
+204,Modern Future FC,Mahmoud Rizk,6.81,12,9,0,44,0,0,0,6,3
+205,Pyramids FC,Mahmoud Dunga,6.81,19,8,0,10,0,0,0,3,1
+206,Ceramica Cleopatra,Mido Gaber,6.81,39,29,0,21,0,0,0,20,5
+207,Ghazl El Mahalla,Mahmoud El Hadary,6.81,0,0,0,12,1,0,0,2,3
+208,Al-Mokawloon,Mamadou Niass,6.81,34,7,0,4,0,0,0,18,1
+209,Pharco FC,Ahmed Abdelaziz Mody,6.81,28,15,1,29,1,1,0,2,4
+210,Tala'ea El-Gaish,Ahmed Abdel Rahman Zola,6.81,65,31,0,35,0,0,0,28,10
+211,Haras El Hedoud,Mostafa Ziko,6.80,39,13,1,29,0,0,0,24,5
+212,El Dakhlya,Abdelrahman El Banouby,6.80,18,8,0,6,0,0,0,8,0
+213,Zamalek SC,Amr El Sisi,6.80,28,16,0,5,0,0,0,13,0
+214,Ismaily,Marwan Hamdi,6.80,3,0,0,0,0,0,0,1,0
+215,El Dakhlya,Mohab Yasser,6.80,2,0,0,1,0,0,0,0,0
+216,Ceramica Cleopatra,Samuel Amadi,6.80,6,2,0,1,0,0,0,1,0
+217,Ismaily,Mohamed Abdelsamia,6.80,19,2,0,2,0,0,0,6,0
+218,Al-Masry,Zyad Farag,6.80,1,1,0,2,0,0,0,0,0
+219,ENPPI,Seif Elkhashab,6.80,8,8,0,20,0,0,0,5,0
+220,Al Ahly FC,Mohamed Fakhry,6.80,13,7,0,4,0,0,0,2,1
+221,Al-Ittihad Alexandria,Salifu Moro,6.80,50,33,0,41,0,0,1,27,11
+222,Al-Masry,Emeka Eze,6.80,37,28,0,19,0,0,0,11,7
+223,Al-Masry,Mohamed Grendo,6.80,34,9,0,13,0,0,0,17,6
+224,Ismaily,Mohamed Hashem,6.80,39,26,0,108,0,0,0,10,5
+225,Al-Masry,Amr Saadawy,6.80,36,22,0,19,0,0,0,25,5
+226,Al-Masry,Karim El Eraki,6.79,43,27,1,29,0,0,0,20,5
+227,Al-Ittihad Alexandria,Mohammed Saleh,6.79,10,23,0,66,0,0,1,9,4
+228,El Dakhlya,Rasheed Ahmed,6.79,9,3,1,12,0,0,0,4,0
+229,ENPPI,Emad Mayhoub,6.79,12,4,0,6,0,0,0,2,0
+230,Pharco FC,Kingsley Sokari,6.79,45,22,0,24,0,0,0,16,6
+231,ENPPI,Khaled Reda,6.79,23,23,1,69,0,0,0,2,2
+232,Al Ahly FC,Ahmed Kendouci,6.79,25,6,0,4,0,0,0,14,3
+233,Ismaily,Mohamed Bayoumi,6.79,10,6,0,4,0,0,0,1,0
+234,Tala'ea El-Gaish,Mohamed Shaaban,6.78,0,0,0,18,2,0,0,0,7
+235,Modern Future FC,Abdelkabir El Ouady,6.78,37,13,0,6,0,0,0,17,5
+236,Al-Mokawloon,John Okoli,6.78,15,3,0,15,0,0,0,11,6
+237,Smouha,El-Hani Soliman,6.78,1,2,0,11,1,0,0,2,9
+238,Ismaily,Karim El Deeb,6.78,19,12,0,13,0,0,0,7,0
+239,Ceramica Cleopatra,Mohamed Metwally Canaria,6.78,36,25,0,12,0,0,0,19,5
+240,Ceramica Cleopatra,Mohamed Nassef,6.78,2,2,0,2,0,0,0,0,0
+241,Ceramica Cleopatra,Constant Wayou,6.78,7,1,0,1,0,0,0,0,0
+242,Al-Masry,Amro Tarek,6.78,8,7,1,11,0,0,0,2,0
+243,Smouha,Ahmed Hakam,6.77,16,32,1,133,1,0,0,8,9
+244,Al-Mokawloon,Mohamed Magli,6.77,68,14,1,15,0,0,0,22,3
+245,Al-Ittihad Alexandria,Mahmoud Abdel-Aziz,6.77,29,11,0,18,0,0,0,7,0
+246,Pharco FC,Amr Gamal,6.77,11,1,0,8,0,0,0,5,2
+247,Tala'ea El-Gaish,Islam Mohareb,6.77,45,18,0,6,0,0,0,33,0
+248,Al Ahly FC,Ahmed Nabil Koka,6.77,14,4,0,4,0,0,0,8,1
+249,Al Ahly FC,Percy Tau,6.77,13,13,0,0,0,0,0,10,3
+250,National Bank of Egypt,Ahmed El Aash,6.77,12,20,1,33,1,0,0,4,3
+251,Modern Future FC,Ahmed Atef,6.77,9,5,0,0,0,0,0,9,2
+252,Pyramids FC,Fakhreddine Ben Youssef,6.77,5,3,0,1,0,0,0,2,0
+253,Al-Ittihad Alexandria,Ibrahim Hassan,6.77,38,17,0,10,0,0,0,14,0
+254,ENPPI,Ahmed Youssef,6.77,55,22,1,23,0,0,0,16,4
+255,Al-Mokawloon,Louay Wael,6.77,5,1,0,6,0,0,0,1,0
+256,Pharco FC,Jefferson Encada,6.77,25,28,0,37,0,0,0,7,7
+257,Al-Ittihad Alexandria,Sobhy Soliman,6.77,1,0,0,2,0,0,1,3,2
+258,Ceramica Cleopatra,Mohamed Ibrahim,6.76,33,10,0,5,0,0,0,25,4
+259,Al Ahly FC,Shady Hussein,6.76,6,2,0,2,0,0,0,6,0
+260,Al-Ittihad Alexandria,Ammar Hamdy,6.76,37,8,1,4,0,0,0,21,1
+261,National Bank of Egypt,Karim Bambo,6.76,14,9,0,3,0,0,0,9,2
+262,Pharco FC,Ahmed Awad,6.76,10,6,0,60,0,0,0,5,8
+263,Al-Mokawloon,Mohamed Salem,6.75,1,0,0,5,0,0,0,1,0
+264,Aswan SC,Malick Evouna,6.75,1,2,0,0,0,0,0,0,0
+265,Al-Masry,Hossam Greisha,6.75,5,1,0,2,0,0,0,4,0
+266,Aswan SC,Mustafa Anani,6.75,1,0,0,1,0,0,0,0,0
+267,Al-Masry,Mohamed El Fayoumi,6.75,6,2,0,0,0,0,0,5,0
+268,Pyramids FC,Hesham Mohamed,6.75,3,0,0,5,0,0,0,2,0
+269,Tala'ea El-Gaish,Omar Radwan,6.75,0,0,2,7,0,0,0,1,4
+270,Zamalek SC,Shikabala,6.75,5,0,0,0,0,0,0,4,0
+271,El Dakhlya,Mostafa Fawzy,6.75,13,3,0,4,0,0,0,3,0
+272,National Bank of Egypt,Mahmoud Sayed,6.75,32,12,0,11,0,0,0,4,2
+273,Tala'ea El-Gaish,Hassan Magdy,6.74,10,9,0,15,0,0,0,1,1
+274,El Dakhlya,Ali El Zahdi,6.74,8,12,0,15,0,0,0,5,0
+275,Smouha,Dokou Dodo,6.74,63,24,1,33,0,0,0,20,9
+276,Ghazl El Mahalla,Ahmed Mayhoub,6.74,1,1,0,26,0,0,0,2,3
+277,ENPPI,Mohamed Hamed,6.74,35,17,1,66,0,0,0,4,5
+278,Ismaily,Karim Arafat,6.74,24,10,0,15,0,0,0,5,2
+279,Smouha,Sodiq Awujoola,6.74,17,7,0,9,0,0,0,15,1
+280,Ceramica Cleopatra,Mahmoud Bolbol Nabil,6.74,19,5,0,3,0,0,0,4,1
+281,Zamalek SC,Hatem Mohamed,6.74,22,11,0,13,0,0,0,6,2
+282,El Dakhlya,Mahmoud Talaat,6.74,59,27,0,36,1,0,0,17,6
+283,El Dakhlya,Kelechi Chimezie,6.74,69,52,1,26,0,0,0,26,8
+284,Al-Mokawloon,Amir Abed,6.74,24,17,1,46,0,0,1,4,2
+285,Pharco FC,Mohamed Ahmed Fouad,6.74,22,6,0,5,0,1,0,5,0
+286,Ghazl El Mahalla,Ehab Samir,6.73,50,30,0,33,1,0,0,19,3
+287,Aswan SC,Amr Hossam,6.73,1,1,2,35,2,1,0,0,5
+288,El Dakhlya,Ahmed Sayed Abdelnaby,6.73,61,40,1,36,0,0,1,13,6
+289,Al-Mokawloon,Ahmed Fawzi,6.73,16,8,0,7,0,0,0,9,2
+290,National Bank of Egypt,Ahmed Said,6.73,15,11,0,6,0,0,0,8,0
+291,Smouha,Benjamin Bernard Boateng,6.73,5,1,0,9,0,0,0,7,1
+292,Aswan SC,Dilson,6.73,8,4,0,13,0,0,0,8,1
+293,Pyramids FC,Dodo El Gabas,6.73,1,0,0,1,0,0,0,0,0
+294,ENPPI,Ahmed Eid,6.73,16,7,0,18,0,0,0,4,2
+295,Ghazl El Mahalla,Mohamed Bazoka,6.73,41,28,1,100,1,0,1,16,5
+296,Al Ahly FC,Ahmed Abdelkader,6.73,18,9,0,1,0,0,0,13,1
+297,Al-Ittihad Alexandria,Mohamed Mahmoud,6.73,22,8,0,1,0,0,0,15,1
+298,Modern Future FC,Tarek Taha,6.73,4,3,0,4,0,0,0,8,1
+299,Al-Masry,Ziad Kamal,6.73,18,11,0,3,0,0,1,10,2
+300,Ceramica Cleopatra,John Okoye Ebuka,6.72,3,1,0,0,0,0,0,0,1
+301,Tala'ea El-Gaish,Farid Shawky,6.72,38,27,1,22,0,0,0,25,9
+302,Zamalek SC,Omar Gaber,6.72,26,13,0,12,0,0,0,6,1
+303,National Bank of Egypt,Ahmed Yasser,6.72,36,18,0,11,0,0,0,22,3
+304,Pharco FC,Abdel Naser Mohamed Di Maria,6.72,9,4,0,5,0,0,0,0,0
+305,ENPPI,Rafik Kabou,6.71,14,4,0,1,0,0,0,18,3
+306,El Dakhlya,Walid Mostafa,6.71,13,7,0,5,0,0,0,0,0
+307,Al Ahly FC,Mohamed Ashraf,6.71,9,4,1,7,0,0,0,3,2
+308,Aswan SC,Islam Salah,6.71,13,25,0,42,0,0,0,3,0
+309,Al-Ittihad Alexandria,Naser Naser,6.71,19,11,0,6,0,0,0,16,1
+310,Zamalek SC,Mohamed Tarek,6.71,11,1,0,12,0,0,0,6,0
+311,Al-Masry,Abderrahim Deghmoum,6.71,36,7,0,5,0,0,0,25,1
+312,Aswan SC,Mostafa Abdel Rasoul,6.71,22,10,0,7,0,1,0,5,1
+313,Aswan SC,Emad Fathy,6.71,55,26,0,15,0,0,0,19,1
+314,Aswan SC,Belal El Sayed,6.71,20,11,1,6,0,1,0,11,0
+315,Modern Future FC,Hesham Balaha,6.71,7,8,0,3,0,0,0,5,0
+316,Smouha,Malek Baayou,6.71,16,16,0,10,0,0,0,9,1
+317,Al-Masry,Ahmed Emad,6.71,17,18,1,22,0,0,0,11,5
+318,Pharco FC,Ahmed El-Saghiri,6.71,20,19,0,15,0,0,0,11,1
+319,Tala'ea El-Gaish,Khaled Stouhi,6.71,20,24,0,44,0,0,1,5,3
+320,Tala'ea El-Gaish,Khaled Kamar,6.71,4,2,1,12,0,0,0,5,0
+321,ENPPI,Mohamed Hamdi,6.70,25,18,0,16,0,0,0,15,3
+322,Ismaily,Firas Chaouat,6.70,8,3,0,6,0,0,0,5,1
+323,Pyramids FC,Ibrahim Adel,6.70,23,8,0,2,0,0,0,14,2
+324,Ismaily,Ahmed Madbouli,6.70,37,10,0,3,0,0,0,21,1
+325,Smouha,Ahmed Mostafa,6.70,25,15,0,12,0,0,0,15,1
+326,Zamalek SC,Sayed Abdallah,6.70,14,7,0,8,0,0,0,6,0
+327,ENPPI,Karim El Tayeb,6.70,4,0,0,4,0,0,0,1,0
+328,Al-Masry,Saeed Kamal,6.70,2,0,0,1,0,0,0,1,1
+329,ENPPI,Mohamed Abdel Aati,6.70,8,3,0,1,0,0,0,4,0
+330,Al-Ittihad Alexandria,Ahmed Sayed Gharib,6.70,3,0,0,5,0,0,0,2,0
+331,ENPPI,Amr Marey,6.70,2,0,0,1,0,0,0,0,0
+332,Modern Future FC,Ahmed Yehia,6.70,0,0,0,2,0,0,0,0,1
+333,Al-Mokawloon,Ahmed Afifi,6.70,0,0,0,0,0,0,0,0,0
+334,ENPPI,Mohamed El Nahass,6.70,0,0,0,0,0,0,0,0,0
+335,Zamalek SC,Ahmed Esho,6.70,3,0,0,2,0,0,0,1,0
+336,Tala'ea El-Gaish,Yehia Hamed,6.70,2,0,0,0,0,0,0,0,0
+337,Pharco FC,Hassan Tarek,6.70,1,1,0,1,0,0,0,0,0
+338,Zamalek SC,Mohamed Hossam,6.70,1,3,0,0,0,0,0,1,0
+339,ENPPI,Ibrahim Galal,6.70,0,0,0,0,0,0,0,0,0
+340,Al-Mokawloon,Youssef Magdy Abdel Ghani,6.70,1,0,0,0,0,0,0,0,0
+341,Zamalek SC,Mohamed Abdel Shafi,6.70,10,12,0,6,0,0,0,3,0
+342,Haras El Hedoud,Omar Bassam,6.70,11,1,0,1,0,0,0,3,1
+343,El Dakhlya,Mohamed Ramadan,6.70,4,1,0,0,0,0,0,1,0
+344,National Bank of Egypt,Ahmed Yassin,6.69,17,20,0,63,0,0,0,5,3
+345,Aswan SC,Mohamed Atwa,6.69,30,22,3,66,0,0,0,11,4
+346,National Bank of Egypt,Osama Faisal,6.69,15,3,0,2,0,0,0,7,1
+347,National Bank of Egypt,Osama Ibrahim,6.69,38,20,1,42,0,0,0,11,1
+348,Ghazl El Mahalla,Amr Shaaban,6.69,0,1,0,14,1,1,0,1,2
+349,El Dakhlya,Mohamed Naguib,6.69,29,30,2,100,1,0,0,5,9
+350,Al-Masry,Abdo Yehia,6.69,15,3,0,7,0,0,0,6,2
+351,ENPPI,Marwan Dawoud,6.69,19,16,0,18,0,0,0,12,6
+352,Al-Masry,Ragab Omran,6.69,12,2,0,6,0,0,0,5,0
+353,Pharco FC,Azmi Ghouma,6.69,30,18,0,12,0,0,0,12,2
+354,ENPPI,Mody Naser,6.69,43,19,0,10,0,0,0,18,2
+355,Tala'ea El-Gaish,Mohamed Sherif,6.68,9,4,0,2,0,0,0,5,0
+356,ENPPI,Abdel Aziz El Balouti,6.68,0,0,0,28,1,0,0,1,4
+357,Haras El Hedoud,Islam Gamal,6.68,18,2,0,1,0,0,0,6,0
+358,Ghazl El Mahalla,Ahmed El Nadry,6.68,50,27,0,20,0,0,0,30,7
+359,Ghazl El Mahalla,Salah Rico,6.68,6,2,0,3,0,0,0,3,0
+360,Ceramica Cleopatra,Ibrahim Ayoola,6.68,0,0,0,1,0,0,0,0,0
+361,Tala'ea El-Gaish,Ahmed Ayman Mansour,6.68,32,30,1,58,0,0,0,19,7
+362,Zamalek SC,Youssef Osama Nabih,6.68,4,1,0,4,0,0,0,5,0
+363,Ceramica Cleopatra,Abdelrahman Body,6.68,11,6,0,8,0,0,0,1,1
+364,El Dakhlya,Ahmed Abdelrasoul,6.68,24,12,0,88,1,0,0,7,5
+365,Modern Future FC,Karim Nedved,6.67,28,8,0,10,0,0,0,15,3
+366,Al-Masry,Hassan Ali,6.67,17,5,0,7,0,0,0,5,2
+367,Aswan SC,Mahmoud Fahmy,6.67,3,1,0,4,0,0,0,1,0
+368,Haras El Hedoud,Mostafa Sobhi,6.67,33,2,0,6,0,0,0,6,0
+369,Ismaily,Mohamed Koko,6.67,1,0,0,16,0,0,0,0,2
+370,Smouha,Hussein Faisal,6.67,41,9,1,17,1,0,0,25,2
+371,Pharco FC,Ahmed Sherif,6.67,7,3,0,5,0,0,0,2,1
+372,ENPPI,Youssef Labib,6.67,0,0,0,4,0,0,0,0,0
+373,Pharco FC,Mohamed Zakaria Shika,6.67,3,0,0,0,0,0,0,0,0
+374,Tala'ea El-Gaish,Mohamed Samir,6.67,12,15,2,25,0,0,0,2,4
+375,Haras El Hedoud,Ahmed Fathi Hamza,6.66,43,23,0,24,0,0,0,21,3
+376,Ismaily,Omar El Saaiy,6.66,9,2,0,3,0,0,0,1,0
+377,National Bank of Egypt,Hamdy Alaa,6.66,17,9,0,0,0,0,0,4,0
+378,Ismaily,Mohamed Desouki,6.66,44,26,0,67,0,0,0,12,7
+379,Al-Ittihad Alexandria,Islam Abdelnaim,6.66,16,7,0,3,0,0,0,7,0
+380,Modern Future FC,Mohamed Farouk,6.66,17,5,0,9,0,0,0,4,1
+381,Ghazl El Mahalla,Mohamed Gaber,6.66,54,32,1,29,0,1,0,43,3
+382,Pharco FC,Yassin Marei,6.66,5,6,1,18,0,0,0,0,0
+383,El Dakhlya,Ahmed Dahesh,6.66,5,0,0,7,0,0,0,2,0
+384,Al-Mokawloon,Ahmed El Shimi,6.66,57,28,1,37,0,0,0,23,6
+385,Al-Ittihad Alexandria,Mostafa Ibrahim,6.66,8,12,0,25,0,0,0,4,1
+386,Ghazl El Mahalla,Ahmed Reda,6.65,11,7,0,2,0,0,0,4,0
+387,Modern Future FC,Ali Zaazaa,6.65,20,11,0,3,0,0,0,11,1
+388,Modern Future FC,Omar El Said,6.65,2,1,0,11,0,0,0,3,0
+389,Ghazl El Mahalla,Hazem Morsi,6.65,6,1,0,6,0,0,0,2,0
+390,Al-Ittihad Alexandria,Austin Amutu,6.65,2,2,0,17,0,0,0,1,0
+391,ENPPI,Mostafa Dowidar,6.65,12,11,1,9,0,0,0,0,1
+392,Al-Masry,Amr El Morsi,6.65,2,0,0,0,0,0,0,0,0
+393,ENPPI,Girgis Magdy,6.65,2,0,0,0,0,0,0,1,0
+394,Al Ahly FC,Ahmed Ashraf Ahmed,6.65,1,1,0,3,0,0,0,1,0
+395,National Bank of Egypt,Eslam Gaber,6.65,18,5,0,5,0,0,0,10,0
+396,Al-Masry,Osama El Gazar,6.64,13,7,0,5,0,0,0,9,0
+397,Ismaily,Mohamed El Shamy,6.64,24,15,1,14,0,0,0,10,4
+398,Haras El Hedoud,Hamed Khaled El Gabry,6.64,30,26,1,26,0,0,0,12,2
+399,Tala'ea El-Gaish,Ahmed Masoud,6.64,0,0,0,5,1,0,0,1,2
+400,Al-Mokawloon,Mohamed Hozian,6.64,7,7,0,7,0,0,0,6,1
+401,Zamalek SC,Samson Akinyoola,6.63,1,0,0,0,0,0,0,0,0
+402,Smouha,Omar Salah,6.63,0,0,1,8,1,0,0,1,3
+403,Al-Ittihad Alexandria,Gavin Kizito,6.63,5,3,0,5,0,0,0,2,0
+404,Modern Future FC,Mohamed Abdelsalam,6.63,8,4,0,6,0,0,0,6,0
+405,Smouha,El Sabahy Emad,6.63,6,5,0,1,0,0,0,0,1
+406,Tala'ea El-Gaish,Mohamed Diab,6.63,5,8,0,18,0,0,0,7,3
+407,Haras El Hedoud,Mohamed Ahmed Kamel,6.63,3,13,0,39,0,0,0,3,2
+408,Smouha,Mohamed El-Maghrabi,6.63,20,15,1,51,0,0,0,9,5
+409,El Dakhlya,Abdelaziz El Sayed,6.63,27,29,0,60,1,0,0,11,5
+410,ENPPI,Mostafa Shakshak,6.63,22,11,0,17,0,0,0,8,3
+411,Zamalek SC,Seif Farouk Gaafar,6.63,14,7,0,2,0,0,0,10,0
+412,Haras El Hedoud,Mahmoud Mamdouh,6.63,12,1,0,6,0,0,0,5,1
+413,National Bank of Egypt,Mohamed Bassiouny,6.63,17,10,0,12,0,0,0,12,2
+414,Al-Masry,Ahmed El Sheikh,6.63,9,4,0,2,0,0,0,3,0
+415,National Bank of Egypt,Basem Morsi,6.63,8,6,0,8,0,0,0,3,0
+416,Ismaily,Essam Sobhy,6.62,31,33,1,44,1,0,0,13,4
+417,Haras El Hedoud,Mostafa Gamal,6.62,44,19,0,49,0,0,0,28,5
+418,Al Ahly FC,Bruno Sávio,6.62,6,2,0,4,0,0,0,7,0
+419,Smouha,Alia Sylla,6.62,2,0,0,2,0,0,0,0,0
+420,Haras El Hedoud,Kingsley Fidelis Kuku,6.61,12,3,0,0,0,0,0,1,0
+421,Ghazl El Mahalla,Khaled El Akhmimi,6.61,12,5,0,2,0,0,0,5,0
+422,Haras El Hedoud,Emmanuel David,6.61,10,5,0,1,0,0,0,8,0
+423,Ghazl El Mahalla,Ibrahim Kone,6.61,12,10,0,5,0,0,0,4,0
+424,Ceramica Cleopatra,Salah Mohsen,6.61,1,2,0,5,0,0,0,0,0
+425,Aswan SC,Gedo,6.60,24,13,0,7,0,0,0,9,0
+426,Aswan SC,Ali Fathi,6.60,32,37,1,50,0,0,1,15,4
+427,Tala'ea El-Gaish,Paul Joules,6.60,4,1,0,2,0,0,0,2,0
+428,Pharco FC,Gaber Kamel,6.60,27,19,0,23,0,0,1,8,1
+429,National Bank of Egypt,Assem Salah,6.60,12,14,0,7,0,1,0,5,0
+430,Smouha,Mohammed Rashid,6.60,0,0,0,1,0,0,0,0,0
+431,Al Ahly FC,Motaz El Sayed,6.60,0,0,0,0,0,0,0,0,0
+432,Ismaily,Khaled Alnabrisi,6.60,0,1,0,0,0,0,0,0,0
+433,Al-Masry,Sherif Dabo,6.60,0,0,0,0,0,0,0,0,0
+434,Ismaily,Abdoul Kader Coulibaly,6.60,0,0,0,0,0,0,0,0,0
+435,Aswan SC,Saber El Shimi,6.60,0,0,0,1,0,0,0,0,0
+436,El Dakhlya,Mahmoud El Gharabawy,6.60,0,0,0,1,0,0,0,0,0
+437,El Dakhlya,Mahmoud Shedid Kenawi,6.60,1,1,0,1,0,0,0,0,0
+438,ENPPI,Shemeles Bekele,6.60,2,0,0,0,0,0,0,1,0
+439,Al-Mokawloon,El Habib Ahmed Hassan,6.60,0,0,0,0,0,0,0,0,0
+440,Al-Ittihad Alexandria,Amr Khalil,6.60,0,0,0,3,0,0,0,0,0
+441,Ismaily,Mohamed Benkhemassa,6.60,3,4,0,2,0,0,0,2,0
+442,Zamalek SC,Ali Yasser,6.60,2,0,0,1,0,0,0,2,1
+443,Pyramids FC,Ojo Tolulope,6.60,0,0,0,0,0,0,0,0,0
+444,Ceramica Cleopatra,Arthur Justice,6.60,5,1,0,6,0,0,0,1,0
+445,Pharco FC,Mahmoud Gehad,6.60,11,4,1,1,0,0,0,2,1
+446,Haras El Hedoud,Medhat Fakousa,6.60,5,1,0,5,0,0,0,1,0
+447,ENPPI,Salah Zayed,6.60,0,0,0,0,0,0,0,3,0
+448,ENPPI,Eric Traore,6.60,8,2,0,5,0,0,0,3,0
+449,Tala'ea El-Gaish,Ali Hamdy,6.60,14,10,0,7,0,0,0,19,1
+450,Smouha,Ahmed Gamal,6.60,35,30,0,34,0,0,0,15,1
+451,Ismaily,Mahmoud Shabrawy,6.59,8,2,0,1,0,0,0,3,0
+452,El Dakhlya,Momen Atef,6.59,19,18,1,15,0,0,0,7,3
+453,ENPPI,Abdel Rahman Emad,6.59,18,3,0,4,0,0,0,4,0
+454,Pharco FC,Mahmoud Emad,6.59,17,8,0,5,0,0,0,11,0
+455,Smouha,Mohamed Saeed,6.59,24,12,0,18,0,0,0,15,2
+456,Ceramica Cleopatra,Mahmoud Zalaka,6.59,8,0,0,0,0,0,0,7,0
+457,Smouha,Halimo,6.59,33,31,0,19,1,0,0,30,3
+458,Ghazl El Mahalla,Paulin Voavy,6.59,7,2,0,1,0,0,0,0,0
+459,Al Ahly FC,Mohamed Dhaoui,6.59,6,1,0,0,0,0,0,6,1
+460,Haras El Hedoud,Ahmed El Saadani,6.59,0,0,0,7,0,0,1,0,2
+461,National Bank of Egypt,Razak Cissé,6.59,11,2,0,1,0,0,0,4,2
+462,El Dakhlya,Eric Serge,6.59,5,2,0,2,0,0,0,2,0
+463,Smouha,Zeyad Tarek,6.58,2,1,0,1,0,0,0,3,0
+464,Ghazl El Mahalla,Abdelrahman Atef,6.58,4,3,0,3,0,0,0,2,0
+465,Pyramids FC,Abdallah Magdy,6.58,9,7,0,6,0,0,0,1,0
+466,Al-Masry,Franck Mbella Etouga,6.58,7,2,0,2,0,0,0,5,0
+467,National Bank of Egypt,Firas Ifia,6.58,2,0,0,1,0,0,0,1,0
+468,Haras El Hedoud,Wagih Abdel Hakim,6.58,9,5,0,4,0,0,0,4,2
+469,Smouha,Barakat Haggag,6.58,16,24,1,58,0,0,0,8,3
+470,Zamalek SC,Youssef Hassan,6.58,1,0,0,1,0,0,0,1,0
+471,Modern Future FC,Abdallah Yaisien,6.58,6,0,0,0,0,0,0,0,0
+472,Haras El Hedoud,Ahmed Ayman,6.57,11,6,0,7,0,0,0,2,0
+473,Modern Future FC,Mostafa El-Badry,6.57,12,7,0,3,0,0,0,8,1
+474,Al-Masry,Islam Ateia,6.57,14,3,0,6,0,0,0,4,1
+475,Tala'ea El-Gaish,Arabi Badr,6.57,2,4,0,3,0,0,0,3,1
+476,Pyramids FC,Mohamed Sadek,6.57,15,5,0,1,0,0,0,6,0
+477,Modern Future FC,Aymen Sfaxi,6.56,8,3,0,5,0,0,0,1,0
+478,Ghazl El Mahalla,Mahmoud Alaa El Katamy,6.56,10,6,0,11,0,0,0,3,0
+479,Smouha,Abubakar Liday,6.56,9,2,0,0,0,0,0,2,0
+480,Ghazl El Mahalla,Karim Mostafa,6.56,8,4,0,6,0,0,0,8,0
+481,Smouha,Ahmed Shousha,6.56,12,19,0,44,1,0,0,2,3
+482,Smouha,Mohamed Nadi,6.55,12,9,0,7,0,0,0,4,1
+483,Haras El Hedoud,Ahmed Dawooda,6.55,3,0,0,1,0,0,0,1,0
+484,Aswan SC,Omar Saoudi,6.55,0,0,0,0,0,0,0,1,0
+485,Tala'ea El-Gaish,Fares Hatem,6.55,0,0,0,0,0,0,0,1,0
+486,Smouha,Momen Mohamed Abd Rabo,6.55,0,4,0,10,0,0,0,0,1
+487,Smouha,Tariq Alaa,6.55,9,5,0,8,0,0,0,3,1
+488,Aswan SC,Ahmed Hamoudi,6.55,5,2,0,2,0,0,0,3,0
+489,Tala'ea El-Gaish,Mahmoud Wahid,6.54,6,2,0,2,0,0,0,2,1
+490,Haras El Hedoud,Valentine Odoh,6.54,15,5,0,2,0,0,0,1,0
+491,Al-Ittihad Alexandria,Abdelghani Mohamed,6.54,8,6,0,1,0,0,0,5,0
+492,Ghazl El Mahalla,Charles Ekpenyong,6.54,4,3,0,1,0,0,0,4,0
+493,El Dakhlya,Karim Yehia,6.53,10,17,0,27,0,0,0,4,0
+494,Aswan SC,Islam Gamal,6.53,4,1,0,22,0,0,0,0,0
+495,ENPPI,Momen Rady,6.53,9,8,0,4,0,1,0,2,0
+496,Al-Ittihad Alexandria,Ahmed Adel,6.53,21,7,0,5,0,0,0,12,0
+497,Al-Mokawloon,Youssef El Gohary,6.52,13,11,0,9,0,0,0,9,1
+498,Modern Future FC,Hadji Barry,6.52,2,6,0,7,1,0,0,2,2
+499,Ceramica Cleopatra,Mohamed Antar,6.52,22,3,0,7,0,0,0,13,1
+500,Al-Masry,Ahmed Shadad,6.52,11,2,0,2,0,0,0,1,1
+501,El Dakhlya,Mohamed Nosseir,6.52,7,3,0,1,0,0,0,1,0
+502,El Dakhlya,Abdullahi Ojifinni,6.52,5,3,0,1,0,0,0,1,0
+503,Al-Ittihad Alexandria,Ahmed Eid,6.52,22,2,0,3,0,0,0,5,0
+504,Pharco FC,Ziad Tolba,6.52,0,1,0,1,0,0,0,0,0
+505,Tala'ea El-Gaish,Marwan Osman,6.52,2,0,0,1,0,0,0,0,0
+506,Haras El Hedoud,Gharib Yasser,6.52,10,3,1,9,0,0,0,1,0
+507,National Bank of Egypt,Amir Medhat,6.51,8,8,1,20,0,0,0,6,0
+508,El Dakhlya,Christopher John,6.51,6,5,0,7,0,0,0,3,1
+509,Al Ahly FC,Mohamed Zaalouk,6.50,0,0,0,0,0,0,0,0,0
+510,Ismaily,Eiad El Askalany,6.50,2,0,1,6,0,0,0,0,0
+511,ENPPI,Alhassan Mubarak,6.50,0,0,0,1,0,0,0,1,0
+512,Ghazl El Mahalla,Mohamed Nabih,6.50,0,2,0,1,0,0,0,0,0
+513,Al-Ittihad Alexandria,Ahmed Hamdeen,6.50,0,0,0,0,0,0,0,1,0
+514,Haras El Hedoud,Salisu Mobarak,6.50,0,1,0,0,0,0,0,0,0
+515,Al-Mokawloon,Ahmed Rashwan,6.50,0,0,0,0,0,0,0,0,0
+516,Haras El Hedoud,Ahmed Ali Kamel,6.50,0,0,0,1,0,0,0,0,0
+517,Tala'ea El-Gaish,Akinade Moses Ibukun,6.50,3,0,0,0,0,0,0,2,0
+518,Ghazl El Mahalla,Ibrahim Ayesh,6.50,4,1,0,2,0,0,0,8,0
+519,El Dakhlya,Hesham Sabry,6.50,1,0,0,0,0,0,0,1,0
+520,Al-Masry,Islam El Mizzayn,6.50,2,4,0,7,0,0,0,3,1
+521,Ghazl El Mahalla,Hany Adel,6.50,2,4,0,4,0,0,0,2,0
+522,Aswan SC,Abdul Aziz Mousa,6.50,4,2,0,2,0,0,0,4,0
+523,Ghazl El Mahalla,Mostafa Osama,6.50,3,3,0,2,0,0,0,2,0
+524,Haras El Hedoud,Momen Awad,6.50,6,9,0,20,0,0,0,0,3
+525,El Dakhlya,Hussein Ragab,6.48,5,5,0,5,0,0,0,1,0
+526,National Bank of Egypt,Moussa Diawara,6.48,5,1,0,0,1,0,0,0,0
+527,Ghazl El Mahalla,Tarek Samy,6.48,1,3,1,2,0,0,0,0,0
+528,Ismaily,Ahmed Mohsen,6.48,6,3,0,6,0,0,0,2,0
+529,ENPPI,Ahmed Nader Hawash,6.47,5,2,0,0,0,0,0,3,0
+530,Zamalek SC,Youssef Obama,6.47,1,0,0,3,0,0,0,0,0
+531,Al Ahly FC,Rafaat Khalil,6.46,3,1,0,0,0,0,0,3,1
+532,Tala'ea El-Gaish,Ashraf Magdy,6.46,0,1,0,1,0,0,0,1,0
+533,Aswan SC,Ahmed Belya,6.45,3,3,0,6,0,0,0,2,0
+534,Haras El Hedoud,Mahmoud Abou-Gouda,6.45,4,1,0,1,0,0,0,2,0
+535,El Dakhlya,Fahd Gomaa,6.44,3,1,0,4,0,0,0,2,0
+536,Zamalek SC,Abdallah Gomaa,6.43,5,2,0,3,0,0,0,1,0
+537,Al-Masry,Anthony Okpotu,6.43,0,0,0,1,0,0,0,1,0
+538,Al-Mokawloon,Mohamed Shawky Gharib,6.42,10,1,0,9,0,0,0,4,0
+539,Aswan SC,Imad El Kabbou,6.40,0,1,0,0,0,0,0,0,0
+540,Zamalek SC,Mohamad Salah Zaki,6.40,0,0,0,0,0,0,0,0,0
+541,Ismaily,Ahmed Abdel Wahab,6.40,0,1,0,0,0,0,0,0,0
+542,Smouha,Rida El Barjiji,6.40,1,0,0,0,0,0,0,1,0
+543,Ceramica Cleopatra,Amer Mohamed,6.40,0,0,0,0,0,0,0,0,0
+544,Al-Mokawloon,Ahmed Abo Egela,6.40,3,0,0,0,0,0,0,2,0
+545,Al-Masry,Mohamed Fawzy Gad,6.40,2,0,0,7,0,0,0,1,0
+546,Al-Mokawloon,Mohamed Abdelnasser,6.40,0,0,0,0,0,0,0,0,0
+547,Pharco FC,Mohammad Fouad,6.40,1,1,0,0,0,0,0,0,0
+548,Aswan SC,Bai Kamara,6.40,1,0,0,0,0,0,0,0,0
+549,Haras El Hedoud,Ahmed Amer,6.40,2,0,0,1,0,0,0,0,0
+550,Ismaily,AbouBakr El Gamal,6.40,0,0,0,0,0,0,0,0,0
+551,El Dakhlya,Mahmoud Ezzat,6.40,1,1,0,2,0,0,0,0,0
+552,Ceramica Cleopatra,Gabriel Chukwudi,6.40,2,0,0,0,0,0,0,2,0
+553,Ismaily,Hamdi Nagguez,6.40,12,8,1,6,0,0,0,5,0
+554,Zamalek SC,Zakaria El Wardi,6.37,3,0,0,0,0,0,0,2,0
+555,National Bank of Egypt,Hossam El Saana,6.35,1,0,0,0,0,0,0,1,0
+556,Pharco FC,Walid Farag,6.34,8,0,1,1,0,0,0,0,0
+557,Al-Ittihad Alexandria,Mohamed Fares,6.34,7,6,1,5,0,0,0,13,1
+558,Haras El Hedoud,Ahmed Kasem,6.33,2,3,0,2,0,0,0,1,0
+559,Al-Ittihad Alexandria,Fawzi El Henawy,6.31,10,9,1,4,1,0,0,9,0
+560,ENPPI,Dejan Meleg,6.30,0,0,0,0,0,0,0,1,0
+561,Tala'ea El-Gaish,El Sayed Abou Amenah,6.30,0,0,0,0,0,0,0,0,0
+562,Smouha,Ahmed Ali Amin,6.30,0,0,0,0,0,0,0,2,0
+563,Ghazl El Mahalla,Sayed Shabrawy,6.28,4,5,0,5,0,0,0,7,2
+564,Aswan SC,Mahmoud Salah,6.28,1,0,0,0,0,0,0,1,0
+565,Pharco FC,Marwan Magdy,6.22,3,1,0,0,0,0,0,0,0
+566,Modern Future FC,Hesham Hafez,6.20,1,1,1,3,0,0,0,1,0
+567,Al-Ittihad Alexandria,Elsayed Salem,6.20,2,0,0,1,0,0,0,0,0
+568,Al-Ittihad Alexandria,Ahmed Bahaa,5.82,6,6,0,6,0,0,0,10,0
+569,National Bank of Egypt,Mahmoud El Zanfaly,5.80,1,0,0,0,0,0,0,1,0
+570,Modern Future FC,Mostafa Ashraf,-,0,0,0,0,0,0,0,0,0
+571,Aswan SC,Khaled Walid,-,0,0,0,0,0,0,0,0,0
+572,Aswan SC,Islam Soliman,-,0,0,0,0,0,0,0,0,0
+573,Pyramids FC,Youssef Shaaban,-,0,0,0,0,0,0,0,0,0
+574,National Bank of Egypt,Khaled Mostafa,-,0,0,0,0,0,0,0,0,0
+575,Modern Future FC,Mohamed Tarek,-,0,0,0,0,0,0,0,0,0
+576,Pyramids FC,Mohamed Samy,-,0,0,0,0,0,0,0,0,0
+577,Pyramids FC,Abdel Rahman Ayman,-,0,0,0,0,0,0,0,0,0
+578,Pharco FC,Sabry Gad,-,0,0,0,0,0,0,0,0,0
+579,Pyramids FC,Seif Ezzat,-,0,0,0,0,0,0,0,0,0
+580,Tala'ea El-Gaish,Mohamed Ghazal,-,0,0,0,0,0,0,0,0,0
+581,Ceramica Cleopatra,Eslam Risha,-,0,0,0,0,0,0,0,0,0
+582,Pyramids FC,Mahmoud Gamal,-,0,0,0,0,0,0,0,0,0
+583,National Bank of Egypt,Hossam Ashraf,-,0,0,0,0,0,0,0,0,0
+584,National Bank of Egypt,Mohamed Hamed,-,0,1,0,0,0,0,0,0,0
+585,Al-Masry,Mohamed El Zareef,-,0,1,0,0,0,0,0,0,0
+586,Pharco FC,Ahmed Abdulaziz,-,0,0,0,0,0,0,0,0,0
+587,Pyramids FC,Youssef Nader,-,0,0,0,0,0,0,0,0,1
+588,Pharco FC,Hesham Fathallah,-,0,0,0,0,0,0,0,0,0
+589,Aswan SC,Alaa Salama,-,1,0,0,0,0,0,0,0,0
+590,El Dakhlya,Mustafa Abdelkader,-,0,0,0,0,0,0,0,0,0
+591,Al-Mokawloon,Ademola Shobowale,-,0,0,0,0,0,0,0,0,0
+592,Ismaily,Mohamed Wagdi,-,0,0,0,0,0,0,0,0,0
+593,Aswan SC,Elhusseini Samir,-,0,0,0,0,0,0,0,1,0
+594,Ceramica Cleopatra,Abdelrahman Hassan,-,0,0,0,0,0,0,0,0,0
+595,Aswan SC,Gamal El Said,-,0,0,0,0,0,0,0,0,0
+596,Aswan SC,Amin Mohamed Amin,-,0,0,0,0,0,0,0,0,0
+597,El Dakhlya,Gamal Montasser,-,0,0,0,0,0,0,0,0,0
+598,Modern Future FC,Bello Babatunde Martins,-,0,1,0,0,0,0,0,0,0
+599,Pyramids FC,Ibrahim Sheta,-,0,0,0,0,0,0,0,0,0
+600,Ghazl El Mahalla,Atef Al Hakim,-,0,0,0,0,0,0,0,0,0
+601,Ghazl El Mahalla,Ahmad Algeaidy,-,0,0,0,0,0,0,0,0,0

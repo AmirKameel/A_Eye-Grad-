@@ -1,0 +1,41 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Karim Emad,G,Egypt,False,30,11,27,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,7,90,48,8.2,19,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Mahmoud Ben Wali,D,Libya,False,22,14,4,1,0,0,2,2,0,0,5,2,0,1,0,0,1,0,0,1,0,1,0,0,0,2,0,0,90,42,7.5,9,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Khaled Sami,D,Egypt,False,9,5,3,1,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,46,19,6.7,10,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Ibrahim El Kadi,D,Egypt,False,25,20,6,4,0,3,3,5,3,1,0,4,0,0,0,2,1,1,0,0,0,0,0,0,3,7,0,0,90,51,7.2,8,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Mohamed Reda,D,Egypt,False,31,24,8,6,8,4,0,6,0,0,1,0,1,0,0,0,2,1,0,2,0,0,0,0,0,1,0,0,90,46,6.8,15,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Ahmed Shedid Kenawi,D,Egypt,False,28,22,4,4,5,0,0,2,2,0,2,2,1,0,0,1,1,1,0,1,0,0,0,0,2,4,0,0,84,46,7.6,11,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Wagih Abdel Hakim,F,Egypt,False,11,7,1,1,0,6,1,8,2,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,2,2,0,0,65,20,6.4,8,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Gharib Yasser,M,Egypt,False,15,9,1,1,0,0,1,1,0,0,1,0,2,0,0,1,1,1,0,0,0,0,0,0,0,4,0,0,90,22,6.8,6,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Mostafa Gamal,M,Egypt,False,31,26,2,1,1,0,1,2,2,0,0,1,3,0,0,0,1,1,0,1,0,0,0,1,2,6,0,0,90,44,7.5,7,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Hamed Khaled,M,none,False,10,8,0,0,2,1,1,3,1,0,0,0,0,0,0,2,0,0,0,1,1,0,1,0,1,4,0,0,66,18,6.5,6,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Valentine Odoh,F,Nigeria,False,12,6,0,0,0,3,3,6,1,0,0,0,1,0,0,0,1,0,0,0,1,0,2,0,1,4,0,0,74,24,6.4,12,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Ahmed Fathi Hamza,M,Egypt,True,41,35,2,1,0,0,2,6,4,1,0,0,0,0,0,0,2,1,0,2,0,0,0,0,4,4,0,0,44,48,6.5,8,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Emmanuel David,F,Nigeria,True,13,7,2,1,0,0,0,2,3,0,0,0,2,0,0,0,1,1,0,0,0,1,0,1,3,4,0,0,25,25,7.3,10,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Mahmoud Mamdouh,M,Egypt,True,12,10,0,0,0,2,2,4,5,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,5,6,0,0,24,24,7.3,4,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Ahmed Dawooda,M,Egypt,True,13,10,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,16,15,6.2,5,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Ahmed Ayman,D,Egypt,True,12,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,13,0.0,4,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Ahmed El Saadani,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Mohamed Ahmed Kamel,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Ramzi Khaled,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Ahmed Kasem,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Haras El Hedoud,2.0,2.0-1.0,11398198
+Amr Shaaban,G,Egypt,False,13,6,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,90,19,6.4,7,0,0,El Mahalla,1.0,2.0-1.0,11398198
+Sayed Shabrawy,D,Egypt,False,39,30,6,4,4,0,1,5,0,0,0,2,0,0,0,0,2,1,0,2,1,0,0,0,0,1,0,0,90,55,6.3,15,0,0,El Mahalla,1.0,2.0-1.0,11398198
+Mostafa El Aash,D,Egypt,False,51,38,11,6,1,2,2,5,0,0,1,2,0,0,0,2,1,0,0,2,0,0,0,0,0,4,0,0,90,72,6.6,16,0,0,El Mahalla,1.0,2.0-1.0,11398198
+Moaz El Henawy,D,Egypt,False,24,21,7,4,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,46,29,6.8,3,0,0,El Mahalla,1.0,2.0-1.0,11398198
+Ehab Samir,D,Egypt,False,34,21,7,1,4,2,6,4,1,0,1,0,3,0,0,0,2,1,0,2,0,0,0,0,1,10,0,0,90,59,6.7,19,0,0,El Mahalla,1.0,2.0-1.0,11398198
+Ahmed El Nadry,M,Egypt,False,36,28,9,5,1,4,0,7,2,1,0,0,1,0,0,0,1,3,0,2,0,0,0,0,2,3,0,0,80,41,6.9,8,0,0,El Mahalla,1.0,2.0-1.0,11398198
+Himid Mao Mkami,M,Tanzania,False,49,38,6,3,0,0,2,5,2,0,0,1,1,0,0,3,1,3,0,2,1,1,0,0,2,7,0,0,90,68,6.9,13,0,0,El Mahalla,1.0,2.0-1.0,11398198
+Mohamed Gaber,M,Egypt,False,13,10,1,0,1,0,3,3,1,0,0,0,0,0,0,2,0,2,0,1,1,1,0,0,1,5,0,0,64,23,6.7,6,0,0,El Mahalla,1.0,2.0-1.0,11398198
+Ahmed El Sheikh,F,Egypt,False,14,13,1,1,4,2,0,4,0,0,0,0,0,1,0,1,0,4,0,1,1,1,0,0,0,1,0,0,63,23,7.5,5,0,0,El Mahalla,1.0,2.0-1.0,11398198
+Gabriel Orok Ibitham,F,Nigeria,False,30,19,2,1,8,0,1,5,4,3,0,1,2,0,0,0,0,4,0,1,1,1,1,0,4,4,0,0,90,58,7.3,19,0,0,El Mahalla,1.0,2.0-1.0,11398198
+Charles Ekpenyong,F,Nigeria,False,8,4,0,0,1,1,0,3,2,2,0,1,0,0,0,0,1,1,0,0,0,0,0,0,2,1,0,0,56,17,6.4,6,0,0,El Mahalla,1.0,2.0-1.0,11398198
+Mohamed Bazoka,D,Egypt,True,18,9,6,0,0,2,1,5,0,0,2,0,2,0,0,0,1,1,0,2,0,0,0,0,0,3,0,0,44,25,6.6,9,0,0,El Mahalla,1.0,2.0-1.0,11398198
+Abdelrahman Atef,F,Egypt,True,10,8,1,0,0,2,0,2,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,2,0,0,34,14,6.6,2,0,0,El Mahalla,1.0,2.0-1.0,11398198
+Hazem Morsi,F,Egypt,True,3,3,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,27,6,6.8,0,0,0,El Mahalla,1.0,2.0-1.0,11398198
+Khaled El Akhmimi,M,Egypt,True,16,15,0,0,3,0,0,0,1,2,1,0,1,0,0,0,0,2,0,0,0,0,0,0,1,2,0,0,26,28,7.1,4,0,0,El Mahalla,1.0,2.0-1.0,11398198
+Karim Mostafa,F,Egypt,True,10,8,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,1,2,0,0,10,16,7.0,5,0,0,El Mahalla,1.0,2.0-1.0,11398198
+Mahmoud El Hadary,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,El Mahalla,1.0,2.0-1.0,11398198
+Hany Adel,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,El Mahalla,1.0,2.0-1.0,11398198
+Mahmoud Alaa El Katamy,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,El Mahalla,1.0,2.0-1.0,11398198
+Mahmoud Abdel Aziz,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,El Mahalla,1.0,2.0-1.0,11398198

@@ -1,0 +1,41 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Mahmoud Gad,G,Egypt,False,21,15,9,3,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,90,32,7.5,6,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Karim El Eraki,D,Egypt,False,30,25,3,2,3,3,1,5,0,0,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0,3,0,0,75,59,6.8,9,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Imadeddine Boubekeur,D,Algeria,False,29,18,9,3,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,46,30,6.5,11,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Mohamed Dabash,D,Egypt,False,54,44,10,3,0,3,3,5,0,0,1,0,2,0,0,0,2,0,0,0,0,0,0,0,0,5,0,0,90,66,7.1,11,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Amr Saadawy,D,Egypt,False,43,36,3,1,2,2,0,4,1,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,1,1,0,0,90,67,6.7,13,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Emeka Eze,M,Nigeria,False,49,42,3,2,0,1,2,5,0,1,0,1,6,0,0,3,3,0,0,1,0,0,0,0,0,11,0,0,90,66,7.4,9,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Farid Shawky,M,Egypt,False,81,73,9,5,0,1,0,1,0,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,90,87,7.0,8,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Ahmed El Sheikh,M,Egypt,False,30,19,2,1,1,1,2,7,2,0,0,2,1,0,0,2,2,0,0,0,2,0,0,0,2,5,0,0,75,43,6.4,18,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Ilyes Jelassi,M,Tunisia,False,53,37,11,5,5,0,1,3,4,1,0,0,1,0,0,3,1,1,0,0,1,0,0,0,4,8,0,0,90,79,7.0,25,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Hassan Ali,M,Egypt,False,7,5,0,0,0,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,26,12,6.5,3,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Marwan Hamdy,F,Egypt,False,6,4,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,42,9,6.6,4,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Mohamed Antar,M,Egypt,True,25,19,3,2,6,0,0,4,2,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,2,1,0,0,64,44,6.5,18,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Mohamed Grendo,F,Egypt,True,10,7,0,0,0,1,2,4,1,0,0,0,1,0,0,0,0,0,0,0,2,1,0,0,1,3,0,0,48,23,6.7,9,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Islam Abou-Salima,D,Egypt,True,25,17,4,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,44,31,6.5,9,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Amr Moussa,D,Egypt,True,8,8,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,15,10,6.6,0,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Anthony Okpotu,F,Nigeria,True,5,3,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,1,0,0,15,8,6.4,4,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Ahmed Masoud,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Amro Tarek,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Amr Marey,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Franck Mbella Etouga,F,Cameroon,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Masry,0.0,0.0-0.0,10824322
+Mohamed Abou Gabal,G,Egypt,False,22,14,14,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,90,34,7.3,9,0,0,National Bank,0.0,0.0-0.0,10824322
+Osama Ibrahim,D,Egypt,False,30,12,9,1,7,0,1,2,0,0,0,2,1,0,0,0,1,0,0,1,0,0,0,0,0,2,0,0,90,57,7.0,28,0,0,National Bank,0.0,0.0-0.0,10824322
+Amir Medhat,D,Egypt,False,37,23,8,2,0,0,1,2,0,0,0,1,2,0,0,0,1,0,0,1,0,0,0,0,0,3,0,0,89,49,6.6,15,0,0,National Bank,0.0,0.0-0.0,10824322
+Ahmed Yassin,D,Egypt,False,33,23,6,2,0,1,2,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,90,45,7.1,10,0,0,National Bank,0.0,0.0-0.0,10824322
+Ahmed El Aash,D,Egypt,False,35,22,12,3,0,1,0,3,1,0,0,1,3,0,0,2,1,0,0,0,1,0,0,0,1,6,0,0,90,58,7.2,19,0,0,National Bank,0.0,0.0-0.0,10824322
+Issahaku Yakubu,D,Ghana,False,30,23,3,1,3,1,0,2,2,0,0,2,1,0,0,1,0,0,0,0,0,1,0,0,2,3,0,0,90,59,7.1,15,0,0,National Bank,0.0,0.0-0.0,10824322
+Karim Bambo,F,Egypt,False,15,10,1,0,0,1,1,7,3,1,0,0,2,0,0,2,0,0,0,1,2,0,3,0,3,5,0,0,90,30,6.2,11,0,0,National Bank,0.0,0.0-0.0,10824322
+Mahmoud Sayed,M,Egypt,False,18,14,5,3,0,3,2,5,2,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,2,5,0,0,59,25,6.7,6,0,0,National Bank,0.0,0.0-0.0,10824322
+Mohamed Fathi,M,Egypt,False,36,25,8,4,0,1,1,3,0,0,0,2,4,0,0,3,1,0,0,0,1,0,0,0,0,8,0,0,90,48,7.1,13,0,0,National Bank,0.0,0.0-0.0,10824322
+Razak Cissé,F,Ivory Coast,False,11,6,1,0,0,3,1,12,1,0,0,0,0,0,0,1,3,0,0,0,5,0,0,0,1,2,0,0,66,24,5.7,13,0,0,National Bank,0.0,0.0-0.0,10824322
+Moussa Diawara,F,Guinea,False,9,5,0,0,1,2,1,3,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,2,0,0,59,12,6.6,5,0,0,National Bank,0.0,0.0-0.0,10824322
+Hamdy Alaa,M,Egypt,True,20,18,2,2,1,1,0,4,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,1,0,0,31,26,6.5,5,0,0,National Bank,0.0,0.0-0.0,10824322
+Osama Faisal,F,Egypt,True,16,11,2,2,2,0,4,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,6,0,0,31,24,7.0,7,0,0,National Bank,0.0,0.0-0.0,10824322
+Eslam Gaber,M,Egypt,True,10,7,3,2,1,0,1,1,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,24,11,6.8,3,0,0,National Bank,0.0,0.0-0.0,10824322
+Mahmoud Kaoud,F,Egypt,True,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.0,0,0,0,National Bank,0.0,0.0-0.0,10824322
+Ahmed Sobhi,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,National Bank,0.0,0.0-0.0,10824322
+Assem Salah,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,National Bank,0.0,0.0-0.0,10824322
+Ahmed Said,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,National Bank,0.0,0.0-0.0,10824322
+Hossam El Saana,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,National Bank,0.0,0.0-0.0,10824322
+Mohamed Helal,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,National Bank,0.0,0.0-0.0,10824322

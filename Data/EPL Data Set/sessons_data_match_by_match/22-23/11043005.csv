@@ -1,0 +1,41 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Mohamed El-Shenawy,G,Egypt,False,29,11,24,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,90,44,7.0,19,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Mohamed Hany,D,Egypt,False,47,34,9,4,0,1,1,2,1,0,0,2,1,0,0,1,0,0,0,0,1,0,0,0,1,4,0,0,90,67,7.0,16,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Yasser Ibrahim,D,Egypt,False,33,23,6,0,0,1,4,6,2,0,0,1,3,0,0,0,2,0,0,2,1,0,0,0,2,9,0,0,90,49,6.7,11,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Mohamed Abdelmonem,D,Egypt,False,37,30,6,1,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,90,43,6.5,7,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Ali Maâloul,D,Tunisia,False,46,34,10,4,2,2,0,6,0,0,0,0,1,1,0,0,2,1,0,2,0,1,0,0,0,1,0,0,90,62,6.8,14,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Marwan Attia,M,Egypt,False,26,21,6,5,0,0,0,2,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,46,30,6.6,5,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Hamdi Fathi,M,Egypt,False,55,41,4,1,1,0,0,4,0,0,2,2,3,0,0,2,1,1,0,2,1,0,0,0,0,5,0,0,90,71,6.9,17,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Ahmed Kendouci,M,Algeria,False,22,12,3,0,0,1,2,9,2,0,0,1,3,0,0,0,1,0,0,2,4,0,0,0,2,6,0,0,66,38,6.1,15,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Percy Tau,M,South Africa,False,25,19,1,1,0,1,0,8,1,1,0,1,1,0,0,1,2,0,0,3,1,1,0,0,1,2,0,0,87,37,6.0,10,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Taher Mohamed,M,Egypt,False,25,19,2,2,4,4,2,11,3,0,1,1,3,0,0,3,2,0,0,0,4,0,0,0,3,10,0,0,77,49,7.0,18,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Shady Hussein,F,Egypt,False,14,12,1,1,0,1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,3,0,0,66,22,6.9,4,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Aliou Dieng,M,Mali,True,37,30,6,5,0,1,1,3,1,0,0,2,1,0,0,3,1,0,0,0,0,0,0,0,1,5,0,0,44,45,7.0,8,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Mohamed Magdy Afsha,M,Egypt,True,17,15,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,24,22,6.7,4,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Rafaat Khalil,F,Egypt,True,12,9,2,1,0,1,2,2,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,3,0,0,24,15,6.5,5,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Mohamed Ashraf,D,Egypt,True,5,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,13,9,6.6,4,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Rami Rabia,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0.0,0,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Ali Lotfi,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Ahmed Nabil Koka,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Bruno Sávio,M,Brazil,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Kahraba,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al Ahly,2.0,2.0-1.0,11043005
+Mahmoud Abou El-Saoud,G,Egypt,False,8,4,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,90,11,6.3,4,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005
+Omar Fayed,D,Egypt,False,25,19,6,4,0,0,1,4,0,0,0,3,1,0,0,0,2,0,0,1,1,0,0,0,0,2,0,0,46,37,6.1,9,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005
+Farouck Kabore,D,Burkina Faso,False,51,38,16,9,0,0,1,2,0,1,0,0,2,0,1,0,0,0,0,0,2,0,0,0,0,3,0,0,90,64,6.3,15,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005
+Ahmed Alaa Eldin,D,Egypt,False,51,35,17,7,2,1,1,5,2,0,1,1,2,0,0,3,3,2,0,0,1,1,0,0,2,8,0,0,90,73,7.2,21,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005
+Ahmed Atef,M,Egypt,False,37,26,3,2,2,2,2,6,4,0,0,2,2,0,0,2,0,0,0,1,1,0,0,0,4,8,0,0,90,71,6.7,22,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005
+Ahmed El Shimi,M,Egypt,False,59,41,10,5,1,1,4,5,2,1,0,0,3,0,0,1,2,0,0,1,1,0,0,0,2,10,0,0,90,74,6.9,20,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005
+Mohamed Magli,M,Egypt,False,41,33,2,0,1,1,0,7,0,0,0,0,5,0,0,1,0,1,0,3,3,0,0,0,0,6,0,0,86,54,6.5,12,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005
+Abdelrahman Khaled Gebna,M,Egypt,False,30,25,3,2,1,0,0,2,5,0,0,2,1,0,0,2,1,0,0,0,1,0,0,0,5,7,0,0,86,46,6.9,10,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005
+Joseph Ochaya,M,Uganda,False,31,18,3,0,6,1,2,4,1,0,0,1,0,0,0,0,1,1,0,0,2,0,0,1,1,3,0,0,90,55,6.9,23,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005
+John Okoli,F,Nigeria,False,16,11,0,0,1,4,0,7,1,1,0,0,0,1,0,1,1,2,0,0,2,3,0,0,1,2,0,0,90,28,7.6,9,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005
+Luis Hinestroza,M,Colombia,False,25,16,2,1,9,4,2,6,1,1,0,0,0,0,0,2,0,3,0,0,1,1,1,0,1,4,0,0,87,44,7.2,21,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005
+Mamadou Niass,F,Mauritania,True,14,14,1,1,0,2,0,6,1,1,0,0,1,0,0,1,3,2,0,1,0,0,1,0,1,3,0,0,44,21,6.9,2,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005
+El Habib Ahmed Hassan,M,Egypt,True,4,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,6,0.0,2,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005
+Mohamed Rizk,M,Egypt,True,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0.0,1,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005
+Fady Farid,F,Egypt,True,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,2,0.0,0,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005
+Ahmed El Arabi,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005
+Amir Abed,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005
+Mohamed Shawky Gharib,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005
+Louay Wael,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005
+Youssef El Gohary,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Mokawloon,1.0,2.0-1.0,11043005

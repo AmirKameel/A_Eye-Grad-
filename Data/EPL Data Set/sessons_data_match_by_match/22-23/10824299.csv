@@ -1,0 +1,41 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Mohamed Abou Gabal,G,Egypt,False,22,15,13,7,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2,2,90,33,5.7,7,0,0,National Bank,2.0,2.0-3.0,10824299
+Osama Ibrahim,D,Egypt,False,39,23,14,8,3,0,2,1,0,0,1,0,4,0,0,0,0,0,0,0,1,0,0,0,0,6,0,0,90,60,6.9,22,0,0,National Bank,2.0,2.0-3.0,10824299
+Ahmed Yassin,D,Egypt,False,23,16,2,1,0,1,0,4,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,65,29,6.2,8,0,0,National Bank,2.0,2.0-3.0,10824299
+Mahmoud El-Gazzar,D,Egypt,False,42,35,8,5,0,1,3,2,0,0,0,1,2,0,0,0,0,1,0,1,0,0,0,0,0,5,0,0,90,56,6.7,8,0,0,National Bank,2.0,2.0-3.0,10824299
+Assem Salah,D,Egypt,False,31,25,3,2,2,0,1,2,0,0,0,0,1,0,0,0,2,1,0,0,0,0,0,1,0,2,0,0,77,50,6.7,12,0,0,National Bank,2.0,2.0-3.0,10824299
+Ahmed Tawfik,M,Egypt,False,37,28,4,0,0,0,0,6,0,0,0,0,4,0,0,1,5,0,0,0,1,0,0,0,0,5,0,0,90,47,6.2,13,0,0,National Bank,2.0,2.0-3.0,10824299
+Mohamed Fathi,M,Egypt,False,58,36,11,6,1,1,2,3,1,0,2,2,2,0,0,2,3,0,0,0,1,0,0,0,1,7,0,0,90,79,6.9,27,0,0,National Bank,2.0,2.0-3.0,10824299
+Mahmoud Kaoud,F,Egypt,False,26,20,3,2,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,65,29,7.0,7,0,0,National Bank,2.0,2.0-3.0,10824299
+Mohamed Helal,M,Egypt,False,36,24,3,2,4,0,0,1,0,2,0,1,2,0,0,2,1,0,0,0,0,1,1,0,0,4,0,0,83,52,7.0,17,0,0,National Bank,2.0,2.0-3.0,10824299
+Razak Cissé,F,Ivory Coast,False,33,24,0,0,1,1,1,5,3,0,0,1,0,0,0,0,1,1,0,0,2,0,0,0,3,3,0,0,77,49,6.4,16,0,0,National Bank,2.0,2.0-3.0,10824299
+Naser Mansi,F,Egypt,False,22,15,0,0,2,3,3,5,0,3,0,0,0,1,0,0,1,0,0,0,2,1,2,0,0,3,0,0,90,33,7.3,11,0,0,National Bank,2.0,2.0-3.0,10824299
+Amir Medhat,D,Egypt,True,9,5,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,9,6.1,4,0,0,National Bank,2.0,2.0-3.0,10824299
+Eslam Gaber,M,Egypt,True,13,11,0,0,0,1,0,2,0,0,1,0,2,0,0,1,0,1,0,0,1,0,0,0,0,3,0,0,25,19,6.7,4,0,0,National Bank,2.0,2.0-3.0,10824299
+Issahaku Yakubu,D,Ghana,True,7,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,10,6.3,2,0,0,National Bank,2.0,2.0-3.0,10824299
+Moussa Diawara,F,Guinea,True,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,8,4.8,5,0,0,National Bank,2.0,2.0-3.0,10824299
+Osama Faisal,F,Egypt,True,4,4,0,0,2,2,0,2,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,3,0,0,7,12,0.0,4,0,0,National Bank,2.0,2.0-3.0,10824299
+Ahmed Sobhi,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,National Bank,2.0,2.0-3.0,10824299
+Ahmed Said,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,National Bank,2.0,2.0-3.0,10824299
+Ahmed Yasser,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,National Bank,2.0,2.0-3.0,10824299
+Mohamed Laaba,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,National Bank,2.0,2.0-3.0,10824299
+Mahdi Soliman,G,Egypt,False,20,13,9,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,90,26,6.2,7,0,0,Al-Ittihad,3.0,2.0-3.0,10824299
+Hisham Salah,D,Egypt,False,41,29,4,0,5,0,1,1,0,0,0,4,1,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,90,67,6.8,24,0,0,Al-Ittihad,3.0,2.0-3.0,10824299
+Mahmoud Alaa,D,Egypt,False,53,34,14,3,0,1,1,1,0,1,0,3,0,1,0,0,0,0,0,0,0,2,0,0,0,1,0,0,90,67,6.8,20,0,0,Al-Ittihad,3.0,2.0-3.0,10824299
+Khaled Sobhi,D,Egypt,False,47,33,12,5,0,2,1,3,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,2,0,0,90,54,6.3,14,0,0,Al-Ittihad,3.0,2.0-3.0,10824299
+Sabri Raheel,D,Egypt,False,37,29,10,5,4,0,0,3,1,0,0,0,1,0,0,0,0,1,0,2,0,0,1,0,1,1,0,0,90,54,6.4,14,0,0,Al-Ittihad,3.0,2.0-3.0,10824299
+Ibrahim Hassan,M,Egypt,False,30,25,1,1,9,1,0,4,2,1,0,0,1,0,0,2,0,5,0,1,0,1,1,1,2,3,0,0,80,57,7.4,13,0,0,Al-Ittihad,3.0,2.0-3.0,10824299
+Mahmoud Abdel-Aziz,M,Egypt,False,17,13,1,1,0,1,0,2,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,2,0,0,43,21,6.7,4,0,0,Al-Ittihad,3.0,2.0-3.0,10824299
+Salifu Moro,M,Ghana,False,47,37,5,4,0,1,5,4,0,2,1,2,1,0,1,1,1,0,0,1,1,0,0,0,0,7,0,0,90,66,6.5,15,0,0,Al-Ittihad,3.0,2.0-3.0,10824299
+Ahmed Adel,M,Egypt,False,34,23,3,1,5,2,0,12,6,0,0,0,1,0,0,0,1,4,0,0,4,0,0,0,6,2,0,0,90,56,6.1,28,0,0,Al-Ittihad,3.0,2.0-3.0,10824299
+Khaled El Ghandour,M,Egypt,False,44,36,3,0,4,0,1,3,0,0,0,2,2,0,0,3,2,1,0,1,0,0,0,0,0,6,0,0,88,65,7.2,13,0,0,Al-Ittihad,3.0,2.0-3.0,10824299
+Mabululu,F,Angola,False,18,13,2,2,0,2,2,4,0,3,0,0,1,1,0,1,0,1,0,0,2,1,1,0,0,4,0,0,80,31,7.6,8,0,0,Al-Ittihad,3.0,2.0-3.0,10824299
+Mohamed Mahmoud,M,Egypt,True,22,17,2,1,0,1,0,4,1,0,0,1,0,0,0,2,0,0,0,0,2,0,0,0,1,2,0,0,47,32,6.2,10,0,0,Al-Ittihad,3.0,2.0-3.0,10824299
+Islam Abdelnaim,M,Egypt,True,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,10,8,6.6,1,0,0,Al-Ittihad,3.0,2.0-3.0,10824299
+Austin Amutu,F,Nigeria,True,0,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,10,4,7.6,0,0,0,Al-Ittihad,3.0,2.0-3.0,10824299
+Mohamed Fares,M,Egypt,True,2,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0.0,1,0,0,Al-Ittihad,3.0,2.0-3.0,10824299
+Sobhy Soliman,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Ittihad,3.0,2.0-3.0,10824299
+Abdallah Nasib,D,Jordan,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Ittihad,3.0,2.0-3.0,10824299
+Gavin Kizito,D,Uganda,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Ittihad,3.0,2.0-3.0,10824299
+Naser Naser,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Ittihad,3.0,2.0-3.0,10824299
+Abdelghani Mohamed,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Ittihad,3.0,2.0-3.0,10824299

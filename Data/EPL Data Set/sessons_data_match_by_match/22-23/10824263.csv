@@ -1,0 +1,41 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Mahmoud Abou El-Saoud,G,Egypt,False,11,5,8,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,90,16,7.3,6,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+Omar Fayed,D,Egypt,False,42,31,16,6,0,0,0,1,0,0,1,5,1,0,0,2,0,1,0,1,0,0,0,0,0,3,0,0,90,57,7.5,12,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+Farouck Kabore,D,Burkina Faso,False,37,29,9,3,1,0,0,1,0,0,2,3,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,90,51,7.2,9,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+Ahmed Alaa Eldin,D,Egypt,False,42,31,12,4,0,1,2,5,1,2,0,1,1,0,0,1,2,0,0,1,0,0,1,0,1,4,0,0,90,54,6.8,12,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+Ahmed Atef,M,Egypt,False,27,21,4,3,2,2,0,6,3,1,0,0,2,0,0,1,1,2,0,1,0,0,0,0,3,4,0,0,87,50,6.7,16,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+Ahmed El Shimi,M,Egypt,False,31,25,7,4,3,2,0,8,1,0,0,3,2,0,0,2,4,1,0,1,0,1,0,0,1,4,0,0,87,50,6.9,14,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+Abdelrahman Khaled Gebna,M,Egypt,False,20,15,2,1,9,0,0,4,3,1,0,2,0,0,0,2,1,2,0,0,0,2,0,0,3,2,0,0,62,44,7.1,17,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+Mohamed Magli,M,Egypt,False,44,39,4,3,1,3,0,5,0,0,0,3,6,0,0,0,2,1,0,0,0,0,0,0,0,6,0,0,90,61,7.7,6,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+Joseph Ochaya,M,Uganda,False,35,27,6,2,6,1,2,3,0,0,0,2,0,0,0,0,1,1,0,0,1,1,0,0,0,2,0,0,90,63,6.9,18,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+Mamadou Niass,F,Mauritania,False,16,12,1,0,0,2,0,9,3,1,0,0,1,0,0,0,2,2,0,0,2,0,1,0,3,1,0,0,63,29,6.4,13,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+John Okoli,F,Nigeria,False,19,9,3,1,0,3,0,7,2,2,0,0,0,0,0,1,2,0,0,0,0,0,1,0,2,1,0,0,90,30,6.5,16,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+Omar Fathi,M,Egypt,True,7,7,0,0,3,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,28,13,6.6,5,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+Fady Farid,F,Egypt,True,4,3,1,0,0,1,0,2,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,27,11,6.5,4,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+Mohamed Shawky Gharib,D,Egypt,True,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,4,0.0,2,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+Mohamed Rizk,M,Egypt,True,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0.0,1,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+Mohamed Hozian,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+Ahmed El Arabi,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+Amir Abed,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+Ahmed Eid,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+Mohamed Salem,F,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Mokawloon,0.0,0.0-0.0,10824263
+Mahdi Soliman,G,Egypt,False,31,19,19,7,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,90,44,7.8,12,0,0,Al-Ittihad,0.0,0.0-0.0,10824263
+Hisham Salah,D,Egypt,False,45,26,15,4,13,2,3,2,0,0,0,2,0,0,0,2,0,2,0,0,0,0,0,0,0,5,0,0,90,78,7.2,32,0,0,Al-Ittihad,0.0,0.0-0.0,10824263
+Mahmoud Alaa,D,Egypt,False,35,20,13,2,0,0,2,0,0,0,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,5,0,0,90,43,7.2,15,0,0,Al-Ittihad,0.0,0.0-0.0,10824263
+Khaled Sobhi,D,Egypt,False,33,25,6,2,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,90,43,7.1,8,0,0,Al-Ittihad,0.0,0.0-0.0,10824263
+Sabri Raheel,D,Egypt,False,37,25,5,2,3,0,1,2,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,2,0,0,90,57,6.7,21,0,0,Al-Ittihad,0.0,0.0-0.0,10824263
+Mohamed Mahmoud,M,Egypt,False,18,13,3,2,0,0,3,5,0,1,0,0,1,0,0,5,2,0,0,0,3,0,0,0,0,9,0,0,85,32,6.7,10,0,0,Al-Ittihad,0.0,0.0-0.0,10824263
+Salifu Moro,M,Ghana,False,29,23,0,0,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,90,34,6.7,7,0,0,Al-Ittihad,0.0,0.0-0.0,10824263
+Islam Abdelnaim,M,Egypt,False,18,13,0,0,2,0,1,1,1,0,0,0,2,0,0,3,0,1,0,0,0,0,0,0,1,6,0,0,54,30,6.9,9,0,0,Al-Ittihad,0.0,0.0-0.0,10824263
+Khaled El Ghandour,M,Egypt,False,52,40,17,9,3,0,4,3,0,0,0,1,3,0,0,1,3,0,0,0,0,0,0,0,0,8,0,0,90,67,7.1,17,0,0,Al-Ittihad,0.0,0.0-0.0,10824263
+Ahmed Adel,M,Egypt,False,16,14,1,1,1,0,0,6,3,0,0,0,2,0,0,1,2,0,0,0,3,0,0,0,3,5,0,0,75,31,6.5,11,0,0,Al-Ittihad,0.0,0.0-0.0,10824263
+Austin Amutu,F,Nigeria,False,8,5,0,0,0,1,0,3,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,54,16,6.4,8,0,0,Al-Ittihad,0.0,0.0-0.0,10824263
+Ibrahim Hassan,M,Egypt,True,17,14,1,0,0,1,0,2,0,0,0,0,2,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,36,25,6.8,5,0,0,Al-Ittihad,0.0,0.0-0.0,10824263
+Mabululu,F,Angola,True,11,7,0,0,0,1,0,4,2,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,2,2,0,0,36,19,6.6,8,0,0,Al-Ittihad,0.0,0.0-0.0,10824263
+Abdelghani Mohamed,M,Egypt,True,3,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,15,4,6.6,1,0,0,Al-Ittihad,0.0,0.0-0.0,10824263
+Ammar Hamdy,M,Egypt,True,4,2,2,1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,2,0,0,5,7,0.0,2,0,0,Al-Ittihad,0.0,0.0-0.0,10824263
+Sobhy Soliman,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Ittihad,0.0,0.0-0.0,10824263
+Abdallah Nasib,D,Jordan,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Ittihad,0.0,0.0-0.0,10824263
+Gavin Kizito,D,Uganda,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Ittihad,0.0,0.0-0.0,10824263
+Mahmoud Abdel-Aziz,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Ittihad,0.0,0.0-0.0,10824263
+Mohamed Fares,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Al-Ittihad,0.0,0.0-0.0,10824263

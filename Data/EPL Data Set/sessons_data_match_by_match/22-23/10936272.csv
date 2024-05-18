@@ -1,0 +1,41 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Mohamed Bassam,G,Egypt,False,22,12,21,11,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2,90,30,6.4,10,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+Mohamed Adel,M,Egypt,False,31,25,5,3,3,1,1,2,0,0,0,4,1,0,0,1,0,1,0,0,1,0,0,0,0,3,0,0,90,55,6.8,12,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+Ragab Nabil,D,Egypt,False,28,21,10,4,0,1,3,2,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,4,0,0,70,37,6.8,7,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+Ahmed Ramadan,D,Egypt,False,38,28,12,5,0,0,2,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,90,57,6.7,12,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+Mohamed Shokry,D,Egypt,False,30,22,6,5,6,1,4,4,1,1,1,3,1,1,0,1,0,3,0,0,3,2,0,1,1,6,0,0,90,66,8.5,22,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+Mohamed Metwally Canaria,M,Egypt,False,32,29,7,6,1,1,0,7,0,0,0,0,0,0,0,1,2,0,0,2,2,0,0,0,0,1,0,0,90,37,6.1,7,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+Mohamed Toni,M,Egypt,False,20,17,4,2,0,2,0,3,1,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,1,4,0,0,46,26,6.9,4,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+Mido Gaber,M,Egypt,False,16,12,2,1,0,1,1,5,0,1,0,0,0,0,0,1,1,1,0,0,3,0,1,0,0,2,0,0,61,27,6.4,7,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+Amr Kalawa,M,Egypt,False,25,18,3,1,0,0,1,5,2,0,0,2,2,0,0,1,2,0,0,1,1,0,0,0,2,5,0,0,61,37,6.6,10,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+Ahmed Yasser Rayan,F,Egypt,False,22,12,1,0,0,1,1,9,4,2,0,2,2,0,0,3,2,0,0,0,4,1,0,0,4,8,0,0,90,48,6.6,19,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+John Okoye Ebuka,F,Nigeria,False,16,10,0,0,0,4,1,9,0,0,0,0,1,1,0,0,4,0,0,0,1,2,0,0,0,2,0,0,87,25,7.1,11,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+Mohamed Ibrahim,M,Egypt,True,19,15,3,2,3,1,0,6,3,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0,3,2,0,0,44,31,6.2,12,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+Mahmoud Bolbol Nabil,M,Egypt,True,9,7,3,1,0,1,0,3,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,29,12,6.2,2,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+Ahmed El Armouty,M,Egypt,True,9,6,1,0,1,0,0,3,0,0,0,0,0,0,0,3,1,1,0,0,2,1,0,1,0,3,0,0,29,19,6.8,9,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+Seif Teka,D,Tunisia,True,3,1,0,0,0,0,2,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,3,0,0,20,8,7.0,2,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+Mohamed Nassef,D,Egypt,True,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0.0,1,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+Amer Mohamed,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+Abdelrahman Body,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+Mahmoud Zalaka,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+Abdelrahman El Banouby,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Ceramica Cleopatra,3.0,3.0-2.0,10936272
+Amr Hossam,G,Egypt,False,15,10,13,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,90,27,6.4,5,0,0,Aswan,2.0,3.0-2.0,10936272
+Mido Mostafa,D,Egypt,False,45,30,4,1,4,1,0,3,0,1,0,0,3,1,0,2,1,1,0,2,0,1,0,0,0,5,0,0,84,76,7.2,21,0,0,Aswan,2.0,3.0-2.0,10936272
+Mohamed Atwa,D,Egypt,False,32,21,6,1,0,1,2,3,1,1,0,1,2,0,0,2,0,0,0,1,0,0,0,0,1,6,0,0,90,46,6.3,12,0,0,Aswan,2.0,3.0-2.0,10936272
+Ahmed Castelo,D,Egypt,False,35,27,8,2,0,2,1,4,0,0,0,1,3,0,0,2,2,0,0,0,0,0,0,0,0,6,0,0,90,45,6.4,9,0,0,Aswan,2.0,3.0-2.0,10936272
+Ali Fathi,D,Egypt,False,60,48,7,3,3,0,2,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,88,80,6.8,17,0,0,Aswan,2.0,3.0-2.0,10936272
+Raphael Ayagwa,M,Nigeria,False,48,39,10,7,0,0,2,5,0,1,0,1,7,0,0,1,1,0,0,2,2,0,0,0,0,10,0,0,88,65,7.1,11,0,0,Aswan,2.0,3.0-2.0,10936272
+Gedo,F,Egypt,False,16,12,0,0,2,4,3,8,2,0,0,1,2,0,0,1,3,0,0,1,0,0,0,0,2,6,0,0,87,28,6.3,9,0,0,Aswan,2.0,3.0-2.0,10936272
+Emad Fathy,M,Egypt,False,42,33,6,3,4,2,0,7,2,0,0,1,2,0,0,1,3,2,0,0,2,1,0,0,2,5,0,0,90,62,6.9,18,0,0,Aswan,2.0,3.0-2.0,10936272
+Ahmed Belhadji,M,Morocco,False,62,47,7,5,7,1,0,4,4,0,0,2,2,0,0,1,0,5,0,1,1,0,0,2,4,6,0,0,90,93,8.4,27,0,0,Aswan,2.0,3.0-2.0,10936272
+Ahmed Khaled,M,Egypt,False,61,50,4,2,0,2,1,5,2,1,0,0,1,0,0,2,2,1,0,0,1,0,0,0,2,6,0,0,90,76,6.7,16,0,0,Aswan,2.0,3.0-2.0,10936272
+Mohamed Hamdy Zaki,F,Egypt,False,31,31,2,2,1,3,3,6,0,4,0,1,0,1,0,0,2,2,0,0,1,2,1,0,0,3,0,0,90,54,7.6,8,0,0,Aswan,2.0,3.0-2.0,10936272
+Mahmoud Salah,F,Egypt,True,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,2,0.0,0,0,0,Aswan,2.0,3.0-2.0,10936272
+Dilson,F,Angola,True,2,2,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,3,3,0.0,0,0,0,Aswan,2.0,3.0-2.0,10936272
+Ahmed Dahroug,D,Egypt,True,4,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,5,0.0,2,0,0,Aswan,2.0,3.0-2.0,10936272
+Abdul Aziz Mousa,M,Egypt,True,4,4,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,2,6,0.0,0,0,0,Aswan,2.0,3.0-2.0,10936272
+Khaled Walid,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Aswan,2.0,3.0-2.0,10936272
+Islam Gamal,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Aswan,2.0,3.0-2.0,10936272
+Islam Salah,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Aswan,2.0,3.0-2.0,10936272
+Ahmed Belya,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Aswan,2.0,3.0-2.0,10936272
+Gamal El Said,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Aswan,2.0,3.0-2.0,10936272

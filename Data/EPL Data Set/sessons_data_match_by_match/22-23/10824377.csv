@@ -1,0 +1,41 @@
+Name,Position,Country,Substitute,totalPass,accuratePass,totalLongBalls,accurateLongBalls,totalCross,aerialLost,aerialWon,duelLost,totalContest,shotOffTarget,outfielderBlock,interceptionWon,totalTackle,goals,ownGoals,wasFouled,fouls,keyPass,lastManTackle,challengeLost,dispossessed,onTargetScoringAttempt,totalOffside,goalAssist,totalContest,duelWon,savedShotsFromInsideTheBox,saves,MinutesPlayed,Touches,Rating,PossessionLostCtrl,PenaltyShootoutMiss,PenaltyShootoutGoal,Team,team score,match score,match code
+Reda Sayed,G,Egypt,False,44,22,39,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,90,47,6.7,22,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Allan Kyambadde,M,Uganda,False,17,13,2,1,0,0,0,0,0,0,0,1,2,0,0,3,0,0,0,0,0,0,0,0,0,5,0,0,90,28,6.9,4,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Mohamed Naguib,D,Egypt,False,27,17,11,5,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,90,42,6.6,13,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Barakat Haggag,D,Egypt,False,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,3.0,0,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Abdelaziz El Sayed,D,Egypt,False,21,11,5,2,0,1,0,2,0,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,56,39,6.1,15,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Kelechi Chimezie,M,Nigeria,False,29,20,4,2,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,90,39,6.7,13,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Momen Atef,M,Egypt,False,14,9,2,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,90,24,6.6,7,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Samir Fekri,F,Egypt,False,18,8,5,0,2,0,0,2,0,0,0,0,1,0,0,3,1,0,0,1,0,0,0,0,0,4,0,0,84,25,6.5,12,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Mahmoud Talaat,M,Egypt,False,18,11,2,1,0,0,2,3,1,0,0,0,1,0,0,3,2,1,0,1,0,0,0,0,1,7,0,0,90,27,6.7,8,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Christopher John,M,Nigeria,False,11,8,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,46,18,6.4,7,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Rasheed Ahmed,F,Nigeria,False,14,7,3,2,1,1,2,3,0,0,0,0,1,0,0,1,2,0,0,0,0,0,1,0,0,4,0,0,57,20,6.7,7,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Hussein Ragab,F,Egypt,True,9,5,0,0,1,1,0,4,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,44,17,6.3,10,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Ahmed Sayed Abdelnaby,D,Egypt,True,2,1,1,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,33,13,6.6,3,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Mohamed Nosseir,M,Egypt,True,5,4,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6,6,0.0,1,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Eric Serge,M,Ivory Coast,True,2,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,3,0.0,1,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Walid Mostafa,F,Egypt,True,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.0,0,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Mohamed Magdi Abdel Fattah,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Mahmoud Shedid Kenawi,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Mustafa Abdelkader,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Mohab Yasser,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,El Dakhlyax2,0.0,0.0-1.0,10824377
+Mahmoud Genesh,G,Egypt,False,16,15,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,90,21,7.2,1,0,0,Future FC,1.0,0.0-1.0,10824377
+Basem Ali,D,Egypt,False,62,52,2,1,6,0,0,0,0,1,0,0,3,0,0,0,0,1,0,0,0,1,0,0,0,3,0,0,90,94,7.7,17,0,0,Future FC,1.0,0.0-1.0,10824377
+Saad Samir,D,Egypt,False,80,71,6,4,1,0,1,1,0,0,0,1,1,0,0,0,1,2,0,0,0,0,0,0,0,2,0,0,90,88,7.3,11,0,0,Future FC,1.0,0.0-1.0,10824377
+Mahmoud Marei,D,Egypt,False,96,88,8,5,1,0,1,2,0,0,0,0,0,0,0,3,1,0,0,1,0,0,0,0,0,4,0,0,90,103,7.1,9,0,0,Future FC,1.0,0.0-1.0,10824377
+Joseph Jonathan Ngwem,D,Cameroon,False,52,41,5,2,9,2,0,6,3,1,0,0,0,1,0,0,2,3,0,0,1,1,0,0,3,2,0,0,90,76,7.8,20,0,0,Future FC,1.0,0.0-1.0,10824377
+Karim Nedved,M,Egypt,False,43,38,3,3,2,1,0,3,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,77,50,6.2,9,0,0,Future FC,1.0,0.0-1.0,10824377
+Ghanam Mohamed,M,Egypt,False,95,86,9,7,1,0,0,4,1,2,0,0,3,0,0,1,1,1,0,0,2,0,0,0,1,4,0,0,90,108,7.2,13,0,0,Future FC,1.0,0.0-1.0,10824377
+Hadji Barry,F,Guinea,False,26,21,2,2,2,0,0,0,0,2,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,90,36,7.2,8,0,0,Future FC,1.0,0.0-1.0,10824377
+Marwan Mohsen,F,Egypt,False,16,15,1,1,0,0,1,3,0,1,0,0,0,0,0,0,2,2,0,0,1,0,0,0,0,1,0,0,53,22,6.7,4,0,0,Future FC,1.0,0.0-1.0,10824377
+Hesham Balaha,M,Egypt,False,28,27,0,0,3,1,0,3,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,53,39,6.4,11,0,0,Future FC,1.0,0.0-1.0,10824377
+Omar El Said,F,Egypt,False,13,8,0,0,0,0,1,1,0,1,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0,3,0,0,63,18,6.8,6,0,0,Future FC,1.0,0.0-1.0,10824377
+Abdelkabir El Ouady,M,Morocco,True,14,12,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,37,17,6.7,4,0,0,Future FC,1.0,0.0-1.0,10824377
+Ahmed Atef,F,Egypt,True,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,6.5,1,0,0,Future FC,1.0,0.0-1.0,10824377
+Omar Kamal,M,Egypt,True,18,15,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,27,22,6.7,6,0,0,Future FC,1.0,0.0-1.0,10824377
+Aymen Sfaxi,F,Tunisia,True,14,12,0,0,1,0,0,3,1,0,0,1,0,0,0,0,1,0,0,0,2,0,0,0,1,0,0,0,27,23,6.4,9,0,0,Future FC,1.0,0.0-1.0,10824377
+Mahmoud Hamdy,G,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Future FC,1.0,0.0-1.0,10824377
+Mahmoud Rizk,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Future FC,1.0,0.0-1.0,10824377
+Ali El Fil,D,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Future FC,1.0,0.0-1.0,10824377
+Hesham Hafez,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Future FC,1.0,0.0-1.0,10824377
+Ali Zaazaa,M,Egypt,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,Future FC,1.0,0.0-1.0,10824377
